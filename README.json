@@ -1,0 +1,2458 @@
+{
+  "items": [
+    {
+      "description": "Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于中文技术圈的 Deno 资源列表呼之欲出。\n以下资源 🌟 代表品质推荐（尚未正式开始标记），⚠️ 代表注意事项。由于资源分类的多样性考虑，部分章节内容可能会有所重复。",
+      "items": [],
+      "title": "为什么有这个项目？"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "及时跟进 @denolib/awesome-deno",
+          "description": "仓库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T05:39:49Z",
+            "owner": "denolib",
+            "repo": "awesome-deno",
+            "stars": 4412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "配套独家《Deno 钻研之术》",
+          "description": "电子书并随着本项目一起成长。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-07-22T11:55:37Z",
+            "owner": "esmadrider",
+            "repo": "deno-tutorial",
+            "stars": 792
+          }
+        }
+      ],
+      "title": "独特之处 🦖🦕"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "doc.deno.land",
+          "description": "：Deno API 查阅器，可查看官方/社区文档。",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "中文：@denodev/typedoc",
+              "description": "。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2023-06-29T01:07:02Z",
+                "owner": "denodev",
+                "repo": "typedoc",
+                "stars": 136
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "deno.land/posts",
+          "description": "：Deno 官方博客。",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "中文：@hylerrix/deno-tutorial",
+              "description": "：精读《Deno 官方博客系列》。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2021-07-22T11:55:37Z",
+                "owner": "esmadrider",
+                "repo": "deno-tutorial",
+                "stars": 792
+              }
+            }
+          ]
+        }
+      ],
+      "title": "技术文档 🌟"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@denoland/deno",
+          "description": "：🌟。Deno 核心仓库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:33:25Z",
+            "owner": "denoland",
+            "repo": "deno",
+            "stars": 108249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@oakserver/oak",
+          "description": "：🌟。Den Web 框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-22T08:54:17Z",
+            "owner": "oakserver",
+            "repo": "oak",
+            "stars": 5410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@alephjs/aleph.js",
+          "description": "：🌟。Deno React 全栈框架。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-07-06T02:54:52Z",
+            "owner": "alephjs",
+            "repo": "aleph.js",
+            "stars": 5178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@denoland/deno_std",
+          "description": "：🌟。Deno 标准库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T10:50:35Z",
+            "owner": "denoland",
+            "repo": "std",
+            "stars": 3555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@cacjs/cac",
+          "description": "：🌟。用于构建命令行应用程序的简单但功能强大的框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-16T06:06:45Z",
+            "owner": "cacjs",
+            "repo": "cac",
+            "stars": 3120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "denoify",
+          "description": "：🌟。对于希望支持 Deno 但不想编写和维护端口的 NPM 模块作者。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-01T20:23:30Z",
+            "owner": "garronej",
+            "repo": "denoify",
+            "stars": 949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@crewdevio/trex",
+          "description": "：🌟。像 npm 一样的 deno 软件包管理。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-18T22:39:08Z",
+            "owner": "crewdevio",
+            "repo": "Trex",
+            "stars": 727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@divy-work/autopilot",
+          "description": "：🌟。用于 Deno 的跨平台桌面自动化框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-07-22T04:55:21Z",
+            "owner": "littledivy",
+            "repo": "autopilot-deno",
+            "stars": 503
+          }
+        }
+      ],
+      "title": "源码阅读推荐"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "基础设施"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@crewdevio/trex",
+          "description": "：🌟。像 npm 一样的 deno 软件包管理。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-18T22:39:08Z",
+            "owner": "crewdevio",
+            "repo": "Trex",
+            "stars": 727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@justjavac/dvm",
+          "description": "：Deno 版本管理器：管理多个活动的 Deno 版本。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T01:12:49Z",
+            "owner": "justjavac",
+            "repo": "dvm",
+            "stars": 708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@umbopepato/velociraptor",
+          "description": "：Deno 的 npm 风格脚本运行器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-08-08T03:55:00Z",
+            "owner": "jurassiscripts",
+            "repo": "velociraptor",
+            "stars": 670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@axetroy/dvm",
+          "description": "：没有运行时相关性的 Deno 版本管理器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-27T22:51:06Z",
+            "owner": "axetroy",
+            "repo": "dvm",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@BentoumiTech/denox",
+          "description": "：类似于 package.json 脚本，但在 Deno 上具有权限支持。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-08-05T07:15:18Z",
+            "owner": "BentoumiTech",
+            "repo": "denox",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@egoist/dedep",
+          "description": "：管理依赖版本。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-11-14T11:44:06Z",
+            "owner": "egoist",
+            "repo": "dedep",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@drashland/dmm",
+          "description": "：轻量级 Deno 模块管理器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-25T00:53:23Z",
+            "owner": "drashland",
+            "repo": "dmm",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@denodep/dep",
+          "description": "：Deno 依赖性管理工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-07-28T09:57:19Z",
+            "owner": "denodep",
+            "repo": "dep",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@bevry/make-deno-edition",
+          "description": "：自动使 package.json 项目（例如 npm 软件包和 node.js 模块）与 Deno 兼容。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T03:04:07Z",
+            "owner": "bevry",
+            "repo": "make-deno-edition",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@irandeno/coffee",
+          "description": "：Deno 配置——一种类型安全、易于使用的 Deno 配置管理器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-08-25T06:21:54Z",
+            "owner": "irandeno",
+            "repo": "coffee",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@jinjor/deno-task-runner",
+          "description": "：像 NPM 脚本一样编写任务。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-01-19T08:36:49Z",
+            "owner": "jinjor",
+            "repo": "deno-task-runner",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@BoltDoggy/dpm",
+          "description": "：Deno 软件包管理器，为 Deno 安装全局命令，比如 Denoget。—— DVM。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2021-05-09T02:57:40Z",
+            "owner": "BoltDoggy",
+            "repo": "deno",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@eankeen/ensure",
+          "description": "：确保您运行的是 Deno，Typescript 或 V8 的最低版本。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-12-01T09:42:06Z",
+            "owner": "hyperupcall-archive",
+            "repo": "ensure",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@MarkTiedemann/dvm.cmd",
+          "description": "：Windows 版 Deno 版本管理器，作为单个批处理文件编写。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Batchfile",
+            "last_commit": "2021-08-09T01:45:41Z",
+            "owner": "MarkTiedemann",
+            "repo": "dvm.cmd",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ebebbington/context-finder",
+          "description": "：从配置文件中提取上下文块。",
+          "children": []
+        }
+      ],
+      "title": "包管理 && 配置管理"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@oakserver/oak",
+          "description": "：🌟。知名的 Deno Web 框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-22T08:54:17Z",
+            "owner": "oakserver",
+            "repo": "oak",
+            "stars": 5410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@drashland/drash",
+          "description": "：零依赖性的 Deno HTTP 服务器的 REST 微框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:09:31Z",
+            "owner": "drashland",
+            "repo": "drash",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@asos-craigmorten/opine",
+          "description": "：从 ExpressJS 移植的快速，简约的网络框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-28T09:41:46Z",
+            "owner": "cmorten",
+            "repo": "opine",
+            "stars": 848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@alosaur/alosaur",
+          "description": "：具有许多装饰器的 Deno Web 框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T10:18:25Z",
+            "owner": "alosaur",
+            "repo": "alosaur",
+            "stars": 818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@keroxp/servest",
+          "description": "：渐进式 HTTP 服务器/路由器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-10-19T09:29:34Z",
+            "owner": "keroxp",
+            "repo": "servest",
+            "stars": 721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@zhmushan/abc",
+          "description": "：一个不错的 Deno Web 框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-10-10T16:22:39Z",
+            "owner": "zhmushan",
+            "repo": "abc",
+            "stars": 596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@sholladay/pogo",
+          "description": "：一个 Deno 服务端框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-22T07:07:45Z",
+            "owner": "sholladay",
+            "repo": "pogo",
+            "stars": 479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@syumai/dinatra",
+          "description": "：🌟。一个类似于 Sinatra 的轻量级 Deno Web 应用程序框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-12-31T12:49:47Z",
+            "owner": "syumai",
+            "repo": "dinatra",
+            "stars": 415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@NMathar/deno-express",
+          "description": "：Node Express 已移植到 Deno。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-05-23T05:57:10Z",
+            "owner": "NMathar",
+            "repo": "deno-express",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@l2ig/aqua",
+          "description": "：用于 Deno 的小又快的 Web 框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-13T11:23:26Z",
+            "owner": "predetermined",
+            "repo": "aqua",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@Caesar2011/denotrain",
+          "description": "：带有中间件支持的多合一 Web 框架，如 Express 或 Fastify for Node.js。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-11-21T18:02:08Z",
+            "owner": "Caesar2011",
+            "repo": "denotrain",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@aaronwlee/attain",
+          "description": "：用于 Deno 的中间件 Web 框架，它使用受 Express 和 Oak 启发的 http 标准库，快速稳定地使用适当的内存。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-12-10T13:48:43Z",
+            "owner": "aaronwlee",
+            "repo": "attain",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@JohannLai/doa",
+          "description": "：一个移植自 koa 的 Deno web 框架 doa。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-12-24T09:48:54Z",
+            "owner": "JohannLai",
+            "repo": "doa",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Web 框架 - 后端"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@pietvanzoen/deno-dotenv",
+          "description": "：Deno 下的 Dotenv。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-02-17T08:32:06Z",
+            "owner": "pietvanzoen",
+            "repo": "deno-dotenv",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@crewdevio/dino_env",
+          "description": "小型库，用于使用 deno 管理环境变量。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-08-03T09:24:10Z",
+            "owner": "crewdevio",
+            "repo": "dino_env",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@cardosomarcos/deno-dotenv",
+          "description": "：从 .env 加载 deno 项目的环境变量。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-11-01T02:49:49Z",
+            "owner": "cardosomarcos",
+            "repo": "deno-dotenv",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "环境变量"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@syumai/dejs",
+          "description": "：一个用于 Deno 的 ejs 模板引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-30T01:25:31Z",
+            "owner": "syumai",
+            "repo": "dejs",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@zekth/deno_tiny_templates",
+          "description": "：Deno 的模板渲染器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-05-10T13:44:10Z",
+            "owner": "zekth",
+            "repo": "deno_tiny_templates",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "模板引擎"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@unexpectedjs/unexpected",
+          "description": "：可扩展的 BDD 断言工具包。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-14T13:55:09Z",
+            "owner": "unexpectedjs",
+            "repo": "unexpected",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@asos-craigmorten/superdeno",
+          "description": "：🌟。由超级代理驱动的库，用于测试 Deno HTTP 服务器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-18T20:20:26Z",
+            "owner": "cmorten",
+            "repo": "superdeno",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@drashland/rhum",
+          "description": "：用于 Deno 的轻量级测试框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-31T00:34:52Z",
+            "owner": "drashland",
+            "repo": "rhum",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@crewdevio/merlin",
+          "description": "：Deno 的测试和基准框架 🧙‍♂️。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-05-25T06:53:22Z",
+            "owner": "crewdevio",
+            "repo": "merlin",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@allain/expect",
+          "description": "：在 Deno 中编写 Jest 的助手。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-12-24T14:17:44Z",
+            "owner": "allain",
+            "repo": "expect",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@udibo/mock",
+          "description": "：提供实用测试工具来帮助模拟测试行为并监视测试函数的调用。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-04-17T18:14:17Z",
+            "owner": "udibo",
+            "repo": "mock",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@bokuweb/deno-pretty-assert",
+          "description": "：一个 Deno 下的 assertEqual 库。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-03-17T04:06:21Z",
+            "owner": "bokuweb",
+            "repo": "deno-pretty-assert",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "测试"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@eveningkid/denodb",
+          "description": "：适用于 Deno 的 MySQL、SQLite、MariaDB、PostgreSQL 和 MongoDB ORM。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-28T10:30:08Z",
+            "owner": "eveningkid",
+            "repo": "denodb",
+            "stars": 1920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@buildondata/deno-postgres",
+          "description": "：PostgreSQL 数据库驱动程序。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-24T10:41:41Z",
+            "owner": "denodrivers",
+            "repo": "postgres",
+            "stars": 656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@halvardssm/deno-nessie",
+          "description": "：为 PostgreSQL、MySQL 和 SQLite 创建，迁移和回滚迁移。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-10T07:30:49Z",
+            "owner": "halvardssm",
+            "repo": "deno-nessie",
+            "stars": 519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@manyuanrong/deno_mongo",
+          "description": "：MongoDB 数据库驱动程序。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-14T07:07:36Z",
+            "owner": "denodrivers",
+            "repo": "mongo",
+            "stars": 512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@keroxp/deno-redis",
+          "description": "：Redis Client for Deno 的实验性实现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T11:57:27Z",
+            "owner": "denodrivers",
+            "repo": "redis",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@manyuanrong/deno-mysql",
+          "description": "：MySQL 数据库驱动程序。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-26T15:25:44Z",
+            "owner": "denodrivers",
+            "repo": "mysql",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@rahmanfadhil/cotton",
+          "description": "：Deno 下的 SQL 数据库工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-06-01T14:19:45Z",
+            "owner": "rahmanfadhil",
+            "repo": "cotton",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@manyuanrong/dso",
+          "description": "：一个基于 MySQL 的简单 ORM 库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-03-27T02:56:22Z",
+            "owner": "manyuanrong",
+            "repo": "dso",
+            "stars": 92
+          }
+        }
+      ],
+      "title": "数据库"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@ryo-ma/deno-websocket",
+          "description": "🦕 一个简单的 WebSocket 库，例如 node.js 库的 ws。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-30T03:42:10Z",
+            "owner": "ryo-ma",
+            "repo": "deno-websocket",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@keroxp/deno-ws",
+          "description": "：一个 Websocket 服务器的实验性实现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-01-07T16:13:22Z",
+            "owner": "keroxp",
+            "repo": "deno-ws",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@JohanWinther/websocket_server",
+          "description": "：WebSocket 服务器库 🔌。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-04-18T12:08:58Z",
+            "owner": "JohanWinther",
+            "repo": "websocket_server",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@drashland/sockets",
+          "description": "用于 Deno 的 WebSocket 库。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2021-11-05T03:55:59Z",
+            "owner": "drashland",
+            "repo": "sockets",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "WebSocket"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@cacjs/cac",
+          "description": "：🌟。用于构建命令行应用程序的简单但功能强大的框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-16T06:06:45Z",
+            "owner": "cacjs",
+            "repo": "cac",
+            "stars": 3120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@siokas/denomander",
+          "description": "：Deno 命令行界面的灵感来自 commander.js。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-20T12:44:36Z",
+            "owner": "siokas",
+            "repo": "denomander",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@syumai/denoinit",
+          "description": "：Deno 下简单的命令工具集。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-03-29T12:11:12Z",
+            "owner": "syumai",
+            "repo": "deno-libs",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@syumai/denoget",
+          "description": "：Deno 获取安装的可执行 Deno 脚本。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-06-22T16:22:41Z",
+            "owner": "syumai",
+            "repo": "denoget",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@buttercubz/commands",
+          "description": "：为 Node.js 和 Deno 创建命令快捷方式。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-11-02T19:37:19Z",
+            "owner": "crewdevio",
+            "repo": "Commands",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ekaragodin/clone",
+          "description": "：一个方便克隆 Github 仓库到本地的简单实用程序。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-30T19:35:50Z",
+            "owner": "ekaragodin",
+            "repo": "clone",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "命令行工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@denorg/qrcode",
+          "description": "：Deno 的 QR 码图像生成器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-25T17:09:49Z",
+            "owner": "denorg",
+            "repo": "qrcode",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@nekobato/deno-xml-parser",
+          "description": "：一个从 segmentio/xml-parser 移植的 Deno XML 解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-12-15T21:30:55Z",
+            "owner": "nekobato",
+            "repo": "deno-xml-parser",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@jcardama/deno-slugify",
+          "description": "：Deno 的字符串节流器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-11-04T21:49:43Z",
+            "owner": "jcardama",
+            "repo": "deno_slugify",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@Maxim-Mazurok/sax-ts",
+          "description": "：从 sax-js 移植的 SAX 风格的 XML 解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-17T05:56:44Z",
+            "owner": "Maxim-Mazurok",
+            "repo": "sax-ts",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@manyuanrong/wasm-gzip",
+          "description": "：为 Deno 加密和解密 gzip。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-11-11T08:13:56Z",
+            "owner": "manyuanrong",
+            "repo": "wasm_gzip",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@denolib/ms",
+          "description": "：轻松地将各种时间格式转换为毫秒。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-09-15T17:34:13Z",
+            "owner": "denolib",
+            "repo": "ms",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@hashrock/deno-fnparse",
+          "description": "：一个非常简单的 JavaScript 解析器、组合器。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-01-05T06:58:15Z",
+            "owner": "hashrock",
+            "repo": "deno-fnparse",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@burhanahmeed/time.ts",
+          "description": "：Time.ts，简便的 Deno 时区操作。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-11-25T02:46:59Z",
+            "owner": "burhanahmeed",
+            "repo": "time.ts",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@denolib/marked",
+          "description": "：Markdown -> HTML 转换器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-03-02T18:52:14Z",
+            "owner": "denolib",
+            "repo": "marked",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@denolib/marked",
+          "description": "：Markdown 到 HTML 转换器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-03-02T18:52:14Z",
+            "owner": "denolib",
+            "repo": "marked",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@denolib/camelcase",
+          "description": "：将破折号/点号/下划线/空格分隔的字符串转换为驼峰式；示例：foo-bar→fooBar。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-02-17T12:41:42Z",
+            "owner": "denolib",
+            "repo": "camelcase",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@manyuanrong/bytes_formater",
+          "description": "：格式化字节（Uint8Array，ArrayBufferView ...）输出，在调试 IO 功能时很有用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-11-10T02:13:03Z",
+            "owner": "manyuanrong",
+            "repo": "bytes_formater",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@hayd/deno-globrex",
+          "description": "：glob 转 regex。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-02-11T05:26:53Z",
+            "owner": "hayd",
+            "repo": "deno-globrex",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@OnikurYH/deno-prettystring",
+          "description": "：格式化，修剪和删除字符串中字符之间的多余空白。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-10-27T02:00:11Z",
+            "owner": "OnikurYH",
+            "repo": "deno-prettystring",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@manyuanrong/deno-checksum",
+          "description": "：SHA1/MD5 算法。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-09-16T05:16:39Z",
+            "owner": "manyuanrong",
+            "repo": "deno-checksum",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@denolib/qs",
+          "description": "：具有嵌套支持的 querystring 解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-03-09T01:29:26Z",
+            "owner": "denolib",
+            "repo": "qs",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@denolib/qs",
+          "description": "：具有嵌套支持的查询字符串解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-03-09T01:29:26Z",
+            "owner": "denolib",
+            "repo": "qs",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@zekth/deno_case_style",
+          "description": "：不同大小写样式的字符串验证器和格式化程序，例如 camelCase 等。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-05-13T19:49:12Z",
+            "owner": "zekth",
+            "repo": "deno_case_style",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@matteocrippa/fossil",
+          "description": "：值类型验证套件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-06-22T14:54:43Z",
+            "owner": "matteocrippa",
+            "repo": "fossil",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@denorg/invert-kv",
+          "description": "：在 Deno 中反转键/值对。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-06-01T11:52:50Z",
+            "owner": "denorg",
+            "repo": "invert-kv",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@codetyphon/denoshort",
+          "description": "：URL 缩短器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-02-05T09:31:39Z",
+            "owner": "codetyphon",
+            "repo": "denoshort",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@zekth/deno_random_interval",
+          "description": "：帮助器生成随机间隔。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-05-13T19:50:06Z",
+            "owner": "zekth",
+            "repo": "deno_random_interval",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@nekobato/deno-yaml",
+          "description": "：一个使用 Deno 的简单 Yaml 解析器。",
+          "children": []
+        }
+      ],
+      "title": "数据类型处理"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@denoland/vscode-deno",
+          "description": "：🌟。VS Code 扩展。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-02T13:35:18Z",
+            "owner": "denoland",
+            "repo": "vscode_deno",
+            "stars": 1548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@justjavac/typescript-deno-plugin",
+          "description": "：Deno 语言服务插件，在编辑器中的 TypeScript 文件中提供智能感知。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-09-04T11:15:54Z",
+            "owner": "justjavac",
+            "repo": "typescript-deno-plugin",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ameerthehacker/deno-vscode",
+          "description": "：利用此扩展利用 VS Code 中内置的 typedef 和 intellisense。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-10-15T15:11:13Z",
+            "owner": "ameerthehacker",
+            "repo": "deno-vscode",
+            "stars": 142
+          }
+        }
+      ],
+      "title": "IDE 插件"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@sindresorhus/type-fest",
+          "description": "：基本 TypeScript 类型的集合（sindresorhus端口/ type-fest）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T12:47:43Z",
+            "owner": "sindresorhus",
+            "repo": "type-fest",
+            "stars": 17351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@neuledge/computed_types",
+          "description": "：类似 Joi 的 Typescript 和 Deno 验证器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-15T18:24:18Z",
+            "owner": "neuledge",
+            "repo": "computed-types",
+            "stars": 359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@zhmushan/dev_server",
+          "description": "：让 TypeScript 文件直接在 script 标签中使用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-08-29T05:53:58Z",
+            "owner": "zhmushan",
+            "repo": "dev_server",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@motss/deno_mod",
+          "description": "：一个 TypeScript 插件，它将允许 Deno 之外的 TypeScript 以类似于在 Deno 内部进行解析的方式来解析模块。⚠️ 已归档。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-04-18T15:33:37Z",
+            "owner": "motss",
+            "repo": "deno_mod",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "TypeScript 相关"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@eliassjogreen/denon",
+          "description": "：像 Nodemon 的 Deno 库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-21T13:29:34Z",
+            "owner": "denosaurs",
+            "repo": "denon",
+            "stars": 1108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@manyuanrong/deno-deamon",
+          "description": "：使 Deno 程序在后台运行。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-12-18T05:29:40Z",
+            "owner": "manyuanrong",
+            "repo": "deno-deamon",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "进程管理"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@joakimunge/denoliver",
+          "description": "：具有实时重新加载功能的简单，无依赖的文件服务器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-24T10:46:57Z",
+            "owner": "joakimunge",
+            "repo": "denoliver",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@jinjor/watch",
+          "description": "：文件观察器（热更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-06-02T17:48:54Z",
+            "owner": "jinjor",
+            "repo": "deno-watch",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "热更新"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@TencentCloudBase/cloudbase-framework/.../framework-plugin-deno",
+          "description": "：云开发 CloudBase Framework 框架「Deno」插件。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-08-08T10:10:32Z",
+            "owner": "Tencent",
+            "repo": "cloudbase-framework",
+            "stars": 1998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@hayd/deno-docker",
+          "description": "：hayd 的几个 docker 映像。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-08-06T15:15:05Z",
+            "owner": "denoland",
+            "repo": "deno_docker",
+            "stars": 1018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@divy-work/autopilot",
+          "description": "：🌟。用于 Deno 的跨平台桌面自动化框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-07-22T04:55:21Z",
+            "owner": "littledivy",
+            "repo": "autopilot-deno",
+            "stars": 503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@maxmcd/deno-docker",
+          "description": "：一个 Docker 镜像。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dockerfile",
+            "last_commit": "2020-06-17T16:16:15Z",
+            "owner": "maxmcd",
+            "repo": "deno-docker",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@denofn/denofn-selfhosted",
+          "description": "：使用 Deno 和 Docker 构建的自托管 Deno 函数。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-01-05T22:25:25Z",
+            "owner": "denofn",
+            "repo": "denofn-selfhosted",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@denorg/starter",
+          "description": "：带有 GitHub Actions CI 的 Deno 模块入门模板。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-05-30T11:03:30Z",
+            "owner": "denorg",
+            "repo": "starter",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@dontlaugh/packer-provisioner-deno",
+          "description": "：一个 Packer 插件，可轻松使用 Deno 脚本构建虚拟机映像。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-04-03T00:40:42Z",
+            "owner": "dontlaugh",
+            "repo": "packer-provisioner-deno",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@marketplace/actions/update-deno",
+          "description": "：Github Action，它将具有最新 Deno 版本的文件放入您的存储库。",
+          "children": []
+        }
+      ],
+      "title": "容器化 & 自动化 & 云"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@eliassjogreen/webview",
+          "description": "：Webview 的 Deno 绑定，这是一个用于创建基于 Web 的桌面 GUI 的小型库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-25T09:19:36Z",
+            "owner": "webview",
+            "repo": "webview_deno",
+            "stars": 1592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@garronej/evt",
+          "description": "：EventEmitter 的安全替代品。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-01T21:27:55Z",
+            "owner": "garronej",
+            "repo": "evt",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@hayd/deno-udd",
+          "description": "：更新面依赖：将导入语句更新为最新发布的版本。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-25T19:45:17Z",
+            "owner": "hayd",
+            "repo": "deno-udd",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@richytong/rubico",
+          "description": "🏞 异步函数组成；它刚刚能运行。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-31T16:42:58Z",
+            "owner": "a-synchronous",
+            "repo": "rubico",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@timonson/djwt",
+          "description": "：根据 JWT 和 JWS 规范在 Deno 上创建 JSON Web 令牌（JWT）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-09T14:16:06Z",
+            "owner": "Zaubrik",
+            "repo": "djwt",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@pikapkg/builders/.../pika-Deno-plugin",
+          "description": "。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-04-10T00:33:31Z",
+            "owner": "FredKSchott",
+            "repo": "pika-pack-builders",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@rbrahul/deno_cron",
+          "description": "：cron job 调度程序，使您可以编写具有大量灵活性的可读 cron 语法",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-06-03T22:09:50Z",
+            "owner": "rbrahul",
+            "repo": "deno_cron",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@manyuanrong/deno-smtp",
+          "description": "：SMTP 的 SMTP 邮件发件人。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-29T23:51:11Z",
+            "owner": "manyuanrong",
+            "repo": "deno-smtp",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@jinjor/deno-playground",
+          "description": "：提供一些 Deno 自定义模块。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-01-12T14:40:14Z",
+            "owner": "jinjor",
+            "repo": "deno-playground",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@manyuanrong/sql-builder",
+          "description": "：SQL 查询生成器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-09T08:55:53Z",
+            "owner": "manyuanrong",
+            "repo": "sql-builder",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@zhmushan/router",
+          "description": "：高性能基本路由器可在任何地方工作。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-02T22:50:32Z",
+            "owner": "zhmushan",
+            "repo": "router",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@manyuanrong/deno-plugin-prepare",
+          "description": "：一个用于管理 Deno 原生插件依赖关系的库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-10-13T05:35:33Z",
+            "owner": "manyuanrong",
+            "repo": "deno-plugin-prepare",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@akshgpt7/youtube-deno",
+          "description": "：YouTube 数据 API 的 Deno 客户端库，用于与 YouTube 进行任何交互。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-08-13T20:15:58Z",
+            "owner": "akshgpt7",
+            "repo": "youtube-deno",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@timonson/gentleRpc",
+          "description": "：用于 Deno 和浏览器的 JSON-RPC 2.0 TypeScript 库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-18T17:27:46Z",
+            "owner": "timonson",
+            "repo": "gentle_rpc",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@hashrock/deno-opn",
+          "description": "：一个可以打开网站、(可执行)文件之类资源的跨平台工具。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-05-14T09:10:26Z",
+            "owner": "hashrock",
+            "repo": "deno-opn",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@thewizardbear/maze_generator",
+          "description": "：用于生成、求解、分析和显示迷宫的 Javascript 模块。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-09T11:41:36Z",
+            "owner": "mjrlowe",
+            "repo": "maze_generator",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@luvies/lazy",
+          "description": "：类似于 linq 的惰性求值迭代模块。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-04-10T03:07:35Z",
+            "owner": "luvies",
+            "repo": "lazy",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@marcopacini/ts-prometheus",
+          "description": "：一个 prometheus 客户端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-14T15:20:00Z",
+            "owner": "marcopacini",
+            "repo": "ts_prometheus",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@bokuweb/wu-diff-js",
+          "description": "：一个差异库，使用 wu（O（NP））算法计算两个切片之间的差异。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-12T17:52:30Z",
+            "owner": "bokuweb",
+            "repo": "wu-diff-js",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@eliassjogreen/deno_tokenizer",
+          "description": "：Deno 的简单标记器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-05-05T12:37:32Z",
+            "owner": "denosaurs",
+            "repo": "tokenizer",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@MarkTiedemann/deno.mk",
+          "description": "：用于安装和运行 Deno 的跨平台 Makefile。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2022-03-17T11:00:11Z",
+            "owner": "MarkTiedemann",
+            "repo": "deno.mk",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@denorg/up",
+          "description": "：检查是否在 Deno 中建立了网站。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-06-01T11:51:35Z",
+            "owner": "denorg",
+            "repo": "up",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@lucascaro/deno-uuid",
+          "description": "：Deno 的 UUID 模块。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-05-23T00:26:27Z",
+            "owner": "lucascaro",
+            "repo": "deno-uuid",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@denosaurs/status",
+          "description": "：Deno 的 HTTP 代码和状态实用程序。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-05T17:05:36Z",
+            "owner": "denosaurs",
+            "repo": "status",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@motss/deno_mod",
+          "description": "：提供一些 Deno 自定义模块。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-04-18T15:33:37Z",
+            "owner": "motss",
+            "repo": "deno_mod",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@hayd/deno-using",
+          "description": "：带有 Deno 语句的 Python 样式。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-05-10T07:10:57Z",
+            "owner": "hayd",
+            "repo": "deno-using",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@AlpacaBi/qrcode_terminal",
+          "description": "。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-03-17T13:29:25Z",
+            "owner": "AlpacaBi",
+            "repo": "qrcode_terminal",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@denorg/recursive-readdir",
+          "description": "：递归读取 Deno 中的目录。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-06-01T11:53:00Z",
+            "owner": "denorg",
+            "repo": "recursive-readdir",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@denorg/online",
+          "description": "：检查您当前是否将 Deno 运行在线上。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-06-01T12:00:08Z",
+            "owner": "denorg",
+            "repo": "online",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@lucascaro/denoversion",
+          "description": "：Deno 的 SemVer + Git 版本管理。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-05-02T16:29:34Z",
+            "owner": "lucascaro",
+            "repo": "denoversion",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@code-hex/deno-context",
+          "description": "：将期限，取消和其他要求范围的值传播给多个 Promise，行为就像 Go 的上下文。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-05-17T15:22:45Z",
+            "owner": "Code-Hex",
+            "repo": "deno-context",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@matteocrippa/microraptor",
+          "description": "：轻量级框架，可通过验证轻松进行网络路由。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-06-22T15:05:54Z",
+            "owner": "matteocrippa",
+            "repo": "microraptor",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@youngjuning/duck",
+          "description": "：一个简单的扫描 controller 并自动注册路由的中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-08-27T17:58:23Z",
+            "owner": "zisheng-ai",
+            "repo": "duck",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@partheseas/gardens",
+          "description": "：一个无处不在的 JavaScript 日志实用程序。",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "@ebebbington/task-runner-v2",
+          "description": "：deno-task-runner 的版本 2 解决方案。",
+          "children": []
+        }
+      ],
+      "title": "其它"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@github-profile-trophy",
+          "description": "：🏆 在你的 README 文件中添加动态生成的 GitHub Trophy。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T00:05:17Z",
+            "owner": "ryo-ma",
+            "repo": "github-profile-trophy",
+            "stars": 6631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@vicky-gonsalves/deno_rest",
+          "description": "：RESTful API 的样板。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-09T22:44:25Z",
+            "owner": "Prolifode",
+            "repo": "deno_rest",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@tamasszoke/deno-seed",
+          "description": "：完整的样板可供开发。 🌱",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-10T23:28:45Z",
+            "owner": "tamasszoke",
+            "repo": "deno-seed",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "数据展示"
+    },
+    {
+      "description": "如果你有好的解决方案，欢迎提供在这里！",
+      "items": [],
+      "title": "成套解决方案"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@TencentCloudBase/cloudbase-templates/.../deno-cloud-app",
+          "description": "可以通过 CLI 一键部署的 Deno 云应用模板。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-03-06T17:30:58Z",
+            "owner": "TencentCloudBase",
+            "repo": "cloudbase-templates",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@tamasszoke/deno-seed",
+          "description": "完整的开发样板 🌱。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-10T23:28:45Z",
+            "owner": "tamasszoke",
+            "repo": "deno-seed",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@youngjuning/deno-oak-mongo-demo",
+          "description": "。",
+          "children": []
+        }
+      ],
+      "title": "解决方案 - 项目模板"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "技术教程"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "技术社区"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "其它订阅"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "番外篇"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@avelino/awesome-go",
+          "description": "。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T21:38:50Z",
+            "owner": "avelino",
+            "repo": "awesome-go",
+            "stars": 180920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@sindresorhus/awesome-nodejs",
+          "description": "。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-03T08:24:10Z",
+            "owner": "sindresorhus",
+            "repo": "awesome-nodejs",
+            "stars": 66508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@rust-unofficial/awesome-rust",
+          "description": "。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:42:33Z",
+            "owner": "rust-unofficial",
+            "repo": "awesome-rust",
+            "stars": 58814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@jobbole/awesome-go-cn",
+          "description": "。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-22T15:08:19Z",
+            "owner": "jobbole",
+            "repo": "awesome-go-cn",
+            "stars": 7378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@dzharii/awesome-typeScript",
+          "description": "。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-02-11T04:21:43Z",
+            "owner": "dzharii",
+            "repo": "awesome-typescript",
+            "stars": 5117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@semlinker/awesome-typeScript",
+          "description": "。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-09T15:23:34Z",
+            "owner": "semlinker",
+            "repo": "awesome-typescript",
+            "stars": 4043
+          }
+        }
+      ],
+      "title": "Deno 依赖的技术清单"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020-05-14 同步最新的 @denolib/awesome-deno",
+          "description": "仓库内容。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T05:39:49Z",
+            "owner": "denolib",
+            "repo": "awesome-deno",
+            "stars": 4412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020-05-22 全网大量搜索 Deno 中英文资源并入库，发布 v1.0 版本并收录在《Deno 钻研之术》",
+          "description": "第二篇中。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T05:39:49Z",
+            "owner": "denolib",
+            "repo": "awesome-deno",
+            "stars": 4412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020-04-14 跟进最新的（180+ Star） @olivewind/awesome-deno-cn",
+          "description": "仓库内容。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-05-08T09:13:40Z",
+            "owner": "olivewind",
+            "repo": "awesome-deno-cn",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020-05-17 跟进中文化后大改版的（200+ Star） @olivewind/awesome-deno-cn",
+          "description": "仓库内容。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-05-08T09:13:40Z",
+            "owner": "olivewind",
+            "repo": "awesome-deno-cn",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "2021-xx-xx",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "同步最新的 @denolib/awesome-deno",
+              "description": "内容",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-08-12T05:39:49Z",
+                "owner": "denolib",
+                "repo": "awesome-deno",
+                "stars": 4412
+              }
+            }
+          ]
+        }
+      ],
+      "title": "仓库更新日志"
+    },
+    {
+      "description": "感谢如下贡献者的贡献 (emoji key)：\n本项目贡献者列表遵循 all-contributors 规范。欢迎你的参与，本仓库贡献准则！",
+      "items": [],
+      "title": "贡献者 ✨"
+    },
+    {
+      "description": "本项目文档内容均采用 CC-BY-SA-4.0 协议进行共享。",
+      "items": [],
+      "title": "开源协议"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:45:49.081Z",
+    "original_repository": "esmadrider/awesome-deno-cn",
+    "original_repository_sha": "4f89b4004c8bcb6b4f7bc020426c2e31e84be14e",
+    "enhanced_repository": "enhansome/enhansome-deno-cn",
+    "enhanced_repository_description": null,
+    "title": "Awesome Deno 资源全图谱 · 专注中文版 with stars"
+  }
+}
