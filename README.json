@@ -98,10 +98,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T10:07:44Z",
+            "last_commit": "2026-08-14T18:00:32Z",
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108255
+            "stars": 108241
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-08-03T10:50:35Z",
             "owner": "denoland",
             "repo": "std",
-            "stars": 3556
+            "stars": 3557
           }
         },
         {
@@ -1441,7 +1441,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-09T12:47:43Z",
+            "last_commit": "2026-08-15T10:47:36Z",
             "owner": "sindresorhus",
             "repo": "type-fest",
             "stars": 17357
@@ -1698,7 +1698,7 @@
             "last_commit": "2025-10-01T21:27:55Z",
             "owner": "garronej",
             "repo": "evt",
-            "stars": 462
+            "stars": 461
           }
         },
         {
@@ -2164,7 +2164,7 @@
             "last_commit": "2026-07-25T00:05:17Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6630
+            "stars": 6631
           }
         },
         {
@@ -2274,10 +2274,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T13:50:42Z",
+            "last_commit": "2026-08-15T07:35:10Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 181061
+            "stars": 181119
           }
         },
         {
@@ -2291,7 +2291,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66522
+            "stars": 66530
           }
         },
         {
@@ -2302,10 +2302,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T07:50:19Z",
+            "last_commit": "2026-08-14T17:56:17Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58833
+            "stars": 58841
           }
         },
         {
@@ -2448,7 +2448,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T17:38:58.887Z",
+    "last_updated": "2026-08-15T17:01:00.561Z",
     "original_repository": "esmadrider/awesome-deno-cn",
     "original_repository_sha": "4f89b4004c8bcb6b4f7bc020426c2e31e84be14e",
     "enhanced_repository": "enhansome/enhansome-deno-cn",
