@@ -101,7 +101,7 @@
             "last_commit": "2026-08-14T18:00:32Z",
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108241
+            "stars": 108249
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-08-03T10:50:35Z",
             "owner": "denoland",
             "repo": "std",
-            "stars": 3557
+            "stars": 3558
           }
         },
         {
@@ -1444,7 +1444,7 @@
             "last_commit": "2026-08-15T10:47:36Z",
             "owner": "sindresorhus",
             "repo": "type-fest",
-            "stars": 17357
+            "stars": 17359
           }
         },
         {
@@ -2274,10 +2274,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T07:35:10Z",
+            "last_commit": "2026-08-16T12:09:33Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 181119
+            "stars": 181210
           }
         },
         {
@@ -2291,7 +2291,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66530
+            "stars": 66531
           }
         },
         {
@@ -2302,10 +2302,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T17:56:17Z",
+            "last_commit": "2026-08-16T13:12:26Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58841
+            "stars": 58852
           }
         },
         {
@@ -2319,7 +2319,7 @@
             "last_commit": "2024-05-22T15:08:19Z",
             "owner": "jobbole",
             "repo": "awesome-go-cn",
-            "stars": 7376
+            "stars": 7375
           }
         },
         {
@@ -2347,7 +2347,7 @@
             "last_commit": "2026-08-09T15:23:34Z",
             "owner": "semlinker",
             "repo": "awesome-typescript",
-            "stars": 4042
+            "stars": 4043
           }
         }
       ],
@@ -2448,7 +2448,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:01:00.561Z",
+    "last_updated": "2026-08-16T17:01:03.025Z",
     "original_repository": "esmadrider/awesome-deno-cn",
     "original_repository_sha": "4f89b4004c8bcb6b4f7bc020426c2e31e84be14e",
     "enhanced_repository": "enhansome/enhansome-deno-cn",
