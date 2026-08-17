@@ -98,10 +98,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T18:00:32Z",
+            "last_commit": "2026-08-17T14:15:16Z",
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108249
+            "stars": 108224
           }
         },
         {
@@ -1444,7 +1444,7 @@
             "last_commit": "2026-08-15T10:47:36Z",
             "owner": "sindresorhus",
             "repo": "type-fest",
-            "stars": 17359
+            "stars": 17360
           }
         },
         {
@@ -1852,7 +1852,7 @@
             "last_commit": "2021-08-13T20:15:58Z",
             "owner": "akshgpt7",
             "repo": "youtube-deno",
-            "stars": 48
+            "stars": 47
           }
         },
         {
@@ -2164,7 +2164,7 @@
             "last_commit": "2026-07-25T00:05:17Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6631
+            "stars": 6632
           }
         },
         {
@@ -2277,7 +2277,7 @@
             "last_commit": "2026-08-16T12:09:33Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 181210
+            "stars": 181294
           }
         },
         {
@@ -2291,7 +2291,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66531
+            "stars": 66539
           }
         },
         {
@@ -2302,10 +2302,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T13:12:26Z",
+            "last_commit": "2026-08-17T08:22:36Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58852
+            "stars": 58866
           }
         },
         {
@@ -2448,7 +2448,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:01:03.025Z",
+    "last_updated": "2026-08-17T17:04:36.174Z",
     "original_repository": "esmadrider/awesome-deno-cn",
     "original_repository_sha": "4f89b4004c8bcb6b4f7bc020426c2e31e84be14e",
     "enhanced_repository": "enhansome/enhansome-deno-cn",
