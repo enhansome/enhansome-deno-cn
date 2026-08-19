@@ -105,10 +105,10 @@
             "archived": false,
             "id": 133442384,
             "language": "Rust",
-            "last_commit": "2026-08-19T12:12:00Z",
+            "last_commit": "2026-08-19T12:55:41Z",
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108259
+            "stars": 108260
           }
         },
         {
@@ -1545,7 +1545,7 @@
                     "last_commit": "2026-08-15T10:47:36Z",
                     "owner": "sindresorhus",
                     "repo": "type-fest",
-                    "stars": 17365
+                    "stars": 17366
                   }
                 },
                 {
@@ -2305,7 +2305,7 @@
                 "last_commit": "2026-07-25T00:05:17Z",
                 "owner": "ryo-ma",
                 "repo": "github-profile-trophy",
-                "stars": 6637
+                "stars": 6636
               }
             },
             {
@@ -2399,7 +2399,7 @@
                 "last_commit": "2026-08-19T09:52:23Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 181508
+                "stars": 181543
               }
             },
             {
@@ -2414,7 +2414,7 @@
                 "last_commit": "2026-05-03T08:24:10Z",
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66558
+                "stars": 66561
               }
             },
             {
@@ -2429,7 +2429,7 @@
                 "last_commit": "2026-08-18T15:53:34Z",
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 58896
+                "stars": 58898
               }
             },
             {
@@ -2576,7 +2576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:23:59.659Z",
+    "last_updated": "2026-08-19T17:03:33.169Z",
     "original_repository": "esmadrider/awesome-deno-cn",
     "original_repository_id": 255276237,
     "original_repository_sha": "4f89b4004c8bcb6b4f7bc020426c2e31e84be14e",
