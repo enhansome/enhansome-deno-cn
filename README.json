@@ -105,10 +105,10 @@
             "archived": false,
             "id": 133442384,
             "language": "Rust",
-            "last_commit": "2026-08-20T16:14:58Z",
+            "last_commit": "2026-08-21T15:12:03Z",
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108266
+            "stars": 108276
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2025-07-06T02:54:52Z",
             "owner": "alephjs",
             "repo": "aleph.js",
-            "stars": 5177
+            "stars": 5178
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-06-16T06:06:45Z",
             "owner": "cacjs",
             "repo": "cac",
-            "stars": 3123
+            "stars": 3124
           }
         },
         {
@@ -268,7 +268,7 @@
                     "last_commit": "2022-08-08T03:55:00Z",
                     "owner": "jurassiscripts",
                     "repo": "velociraptor",
-                    "stars": 670
+                    "stars": 669
                   }
                 },
                 {
@@ -873,7 +873,7 @@
                     "last_commit": "2025-04-24T10:41:41Z",
                     "owner": "denodrivers",
                     "repo": "postgres",
-                    "stars": 656
+                    "stars": 655
                   }
                 },
                 {
@@ -903,7 +903,7 @@
                     "last_commit": "2025-03-14T07:07:36Z",
                     "owner": "denodrivers",
                     "repo": "mongo",
-                    "stars": 512
+                    "stars": 511
                   }
                 },
                 {
@@ -1052,7 +1052,7 @@
                     "last_commit": "2026-06-16T06:06:45Z",
                     "owner": "cacjs",
                     "repo": "cac",
-                    "stars": 3123
+                    "stars": 3124
                   }
                 },
                 {
@@ -1486,7 +1486,7 @@
                     "last_commit": "2026-07-02T13:35:18Z",
                     "owner": "denoland",
                     "repo": "vscode_deno",
-                    "stars": 1548
+                    "stars": 1547
                   }
                 },
                 {
@@ -1545,7 +1545,7 @@
                     "last_commit": "2026-08-20T07:50:40Z",
                     "owner": "sindresorhus",
                     "repo": "type-fest",
-                    "stars": 17368
+                    "stars": 17370
                   }
                 },
                 {
@@ -2305,7 +2305,7 @@
                 "last_commit": "2026-07-25T00:05:17Z",
                 "owner": "ryo-ma",
                 "repo": "github-profile-trophy",
-                "stars": 6637
+                "stars": 6635
               }
             },
             {
@@ -2396,10 +2396,10 @@
                 "archived": false,
                 "id": 21540759,
                 "language": "Go",
-                "last_commit": "2026-08-20T13:14:59Z",
+                "last_commit": "2026-08-21T06:27:18Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 181685
+                "stars": 181821
               }
             },
             {
@@ -2414,7 +2414,7 @@
                 "last_commit": "2026-05-03T08:24:10Z",
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66575
+                "stars": 66583
               }
             },
             {
@@ -2429,7 +2429,7 @@
                 "last_commit": "2026-08-20T08:15:22Z",
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 58903
+                "stars": 58919
               }
             },
             {
@@ -2444,7 +2444,7 @@
                 "last_commit": "2024-05-22T15:08:19Z",
                 "owner": "jobbole",
                 "repo": "awesome-go-cn",
-                "stars": 7377
+                "stars": 7378
               }
             },
             {
@@ -2576,7 +2576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:12:10.101Z",
+    "last_updated": "2026-08-21T17:12:12.085Z",
     "original_repository": "esmadrider/awesome-deno-cn",
     "original_repository_id": 255276237,
     "original_repository_sha": "4f89b4004c8bcb6b4f7bc020426c2e31e84be14e",
