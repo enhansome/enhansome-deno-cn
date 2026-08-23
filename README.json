@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-14T00:57:28Z",
                 "owner": "denolib",
                 "repo": "awesome-deno",
-                "stars": 4410
+                "stars": 4409
               }
             },
             {
@@ -105,10 +105,10 @@
             "archived": false,
             "id": 133442384,
             "language": "Rust",
-            "last_commit": "2026-08-22T12:52:12Z",
+            "last_commit": "2026-08-22T17:49:35Z",
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108276
+            "stars": 108288
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-02-22T08:54:17Z",
             "owner": "oakserver",
             "repo": "oak",
-            "stars": 5411
+            "stars": 5410
           }
         },
         {
@@ -455,7 +455,7 @@
                     "last_commit": "2026-02-22T08:54:17Z",
                     "owner": "oakserver",
                     "repo": "oak",
-                    "stars": 5411
+                    "stars": 5410
                   }
                 },
                 {
@@ -467,7 +467,7 @@
                     "archived": false,
                     "id": 171999885,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-12T18:09:31Z",
+                    "last_commit": "2026-08-23T14:00:57Z",
                     "owner": "drashland",
                     "repo": "drash",
                     "stars": 1067
@@ -1545,7 +1545,7 @@
                     "last_commit": "2026-08-20T07:50:40Z",
                     "owner": "sindresorhus",
                     "repo": "type-fest",
-                    "stars": 17374
+                    "stars": 17378
                   }
                 },
                 {
@@ -2276,7 +2276,7 @@
                     "id": 285198858,
                     "language": "TypeScript",
                     "last_commit": "2020-08-27T17:58:23Z",
-                    "owner": "zisheng-ai",
+                    "owner": "youngjunning",
                     "repo": "duck",
                     "stars": 4
                   }
@@ -2305,7 +2305,7 @@
                 "last_commit": "2026-07-25T00:05:17Z",
                 "owner": "ryo-ma",
                 "repo": "github-profile-trophy",
-                "stars": 6636
+                "stars": 6637
               }
             },
             {
@@ -2399,7 +2399,7 @@
                 "last_commit": "2026-08-21T06:27:18Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 181949
+                "stars": 182037
               }
             },
             {
@@ -2414,7 +2414,7 @@
                 "last_commit": "2026-05-03T08:24:10Z",
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66590
+                "stars": 66603
               }
             },
             {
@@ -2429,7 +2429,7 @@
                 "last_commit": "2026-08-22T14:37:29Z",
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 58937
+                "stars": 58950
               }
             },
             {
@@ -2444,7 +2444,7 @@
                 "last_commit": "2024-05-22T15:08:19Z",
                 "owner": "jobbole",
                 "repo": "awesome-go-cn",
-                "stars": 7379
+                "stars": 7378
               }
             },
             {
@@ -2474,7 +2474,7 @@
                 "last_commit": "2026-08-22T02:15:33Z",
                 "owner": "semlinker",
                 "repo": "awesome-typescript",
-                "stars": 4043
+                "stars": 4042
               }
             }
           ],
@@ -2496,7 +2496,7 @@
                 "last_commit": "2026-08-14T00:57:28Z",
                 "owner": "denolib",
                 "repo": "awesome-deno",
-                "stars": 4410
+                "stars": 4409
               }
             },
             {
@@ -2511,7 +2511,7 @@
                 "last_commit": "2026-08-14T00:57:28Z",
                 "owner": "denolib",
                 "repo": "awesome-deno",
-                "stars": 4410
+                "stars": 4409
               }
             },
             {
@@ -2561,7 +2561,7 @@
                     "last_commit": "2026-08-14T00:57:28Z",
                     "owner": "denolib",
                     "repo": "awesome-deno",
-                    "stars": 4410
+                    "stars": 4409
                   }
                 }
               ]
@@ -2576,7 +2576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:00:12.408Z",
+    "last_updated": "2026-08-23T17:01:52.673Z",
     "original_repository": "esmadrider/awesome-deno-cn",
     "original_repository_id": 255276237,
     "original_repository_sha": "4f89b4004c8bcb6b4f7bc020426c2e31e84be14e",
