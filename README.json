@@ -105,7 +105,7 @@
             "archived": false,
             "id": 133442384,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:20:03Z",
+            "last_commit": "2026-08-24T15:46:11Z",
             "owner": "denoland",
             "repo": "deno",
             "stars": 108295
@@ -2550,10 +2550,10 @@
                 "archived": false,
                 "id": 21540759,
                 "language": "Go",
-                "last_commit": "2026-08-21T06:27:18Z",
+                "last_commit": "2026-08-24T16:07:27Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182112
+                "stars": 182125
               }
             },
             {
@@ -2583,7 +2583,7 @@
                 "last_commit": "2026-08-24T07:28:27Z",
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 58957
+                "stars": 58959
               }
             },
             {
@@ -2598,7 +2598,7 @@
                 "last_commit": "2024-05-22T15:08:19Z",
                 "owner": "jobbole",
                 "repo": "awesome-go-cn",
-                "stars": 7379
+                "stars": 7380
               }
             },
             {
@@ -2730,7 +2730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:21.446Z",
+    "last_updated": "2026-08-24T17:16:34.587Z",
     "original_repository": "esmadrider/awesome-deno-cn",
     "original_repository_id": 255276237,
     "original_repository_sha": "4f89b4004c8bcb6b4f7bc020426c2e31e84be14e",
