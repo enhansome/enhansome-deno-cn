@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-14T00:57:28Z",
                 "owner": "denolib",
                 "repo": "awesome-deno",
-                "stars": 4409
+                "stars": 4408
               }
             },
             {
@@ -105,10 +105,10 @@
             "archived": false,
             "id": 133442384,
             "language": "Rust",
-            "last_commit": "2026-08-22T17:49:35Z",
+            "last_commit": "2026-08-24T14:20:03Z",
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108288
+            "stars": 108295
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-02-22T08:54:17Z",
             "owner": "oakserver",
             "repo": "oak",
-            "stars": 5410
+            "stars": 5411
           }
         },
         {
@@ -224,6 +224,28 @@
       "items": [
         {
           "children": [
+            {
+              "node_type": "group",
+              "title": "和 Deno 生态强相关的源",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "denopkg",
+                  "description": "：在 Deno 项目中使用 GitHub 上的代码的更简单方法。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 163003721,
+                    "language": "TypeScript",
+                    "last_commit": "2025-08-14T15:38:12Z",
+                    "owner": "egoist-labs",
+                    "repo": "denopkg.com",
+                    "stars": 239
+                  }
+                }
+              ]
+            },
             {
               "children": [
                 {
@@ -455,7 +477,7 @@
                     "last_commit": "2026-02-22T08:54:17Z",
                     "owner": "oakserver",
                     "repo": "oak",
-                    "stars": 5410
+                    "stars": 5411
                   }
                 },
                 {
@@ -647,6 +669,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "@alephjs/alephjs",
+                  "description": "：🌟。Deno 下的 React 框架。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 294893525,
+                    "language": "TypeScript",
+                    "last_commit": "2025-07-06T02:54:52Z",
+                    "owner": "alephjs",
+                    "repo": "aleph.js",
+                    "stars": 5178
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Web 框架 - 前端"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "@pietvanzoen/deno-dotenv",
                   "description": "：Deno 下的 Dotenv。",
                   "children": [],
@@ -694,6 +738,28 @@
               "description": null,
               "node_type": "group",
               "title": "环境变量"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "@ameerthehacker/cli-spinner",
+                  "description": "：在执行长任务时在终端中显示微调框。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 168942053,
+                    "language": "TypeScript",
+                    "last_commit": "2025-03-18T18:09:26Z",
+                    "owner": "ameerthehacker",
+                    "repo": "deno-cli-spinners",
+                    "stars": 57
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "命令行"
             },
             {
               "children": [
@@ -1139,6 +1205,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "@PandawanFr/deno_notify",
+                  "description": "：在所有平台上发送桌面通知。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 266703602,
+                    "language": "TypeScript",
+                    "last_commit": "2023-03-07T09:07:10Z",
+                    "owner": "Pandawan",
+                    "repo": "deno_notify",
+                    "stars": 50
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "应用级别"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "@denorg/qrcode",
                   "description": "：Deno 的 QR 码图像生成器。",
                   "children": [],
@@ -1532,6 +1620,43 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "@xcatliu/pagic",
+              "description": "：用 Deno 构建从 markdown 生成静态 html 页面的简单方法。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83543333,
+                "language": "JavaScript",
+                "last_commit": "2023-09-19T01:16:18Z",
+                "owner": "xcatliu",
+                "repo": "pagic",
+                "stars": 1657
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "@garronej/denoify",
+                  "description": "：🌟。对于希望支持 Deno 但不想编写和维护端口的 NPM 模块作者。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 241567412,
+                    "language": "TypeScript",
+                    "last_commit": "2025-10-01T20:23:30Z",
+                    "owner": "garronej",
+                    "repo": "denoify",
+                    "stars": 949
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "从 Node 到 Deno"
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -1545,7 +1670,7 @@
                     "last_commit": "2026-08-20T07:50:40Z",
                     "owner": "sindresorhus",
                     "repo": "type-fest",
-                    "stars": 17378
+                    "stars": 17381
                   }
                 },
                 {
@@ -2294,6 +2419,35 @@
         {
           "children": [
             {
+              "node_type": "group",
+              "title": "deno-playground.now.sh",
+              "description": "。",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "@maman/deno-playground",
+                  "description": "。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 264606353,
+                    "language": "TypeScript",
+                    "last_commit": "2021-03-22T07:02:37Z",
+                    "owner": "maman",
+                    "repo": "deno-playground",
+                    "stars": 60
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "在线沙箱"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "@github-profile-trophy",
               "description": "：🏆 在你的 README 文件中添加动态生成的 GitHub Trophy。",
@@ -2399,7 +2553,7 @@
                 "last_commit": "2026-08-21T06:27:18Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182037
+                "stars": 182112
               }
             },
             {
@@ -2414,7 +2568,7 @@
                 "last_commit": "2026-05-03T08:24:10Z",
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66603
+                "stars": 66610
               }
             },
             {
@@ -2426,10 +2580,10 @@
                 "archived": false,
                 "id": 21938243,
                 "language": "Rust",
-                "last_commit": "2026-08-22T14:37:29Z",
+                "last_commit": "2026-08-24T07:28:27Z",
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 58950
+                "stars": 58957
               }
             },
             {
@@ -2444,7 +2598,7 @@
                 "last_commit": "2024-05-22T15:08:19Z",
                 "owner": "jobbole",
                 "repo": "awesome-go-cn",
-                "stars": 7378
+                "stars": 7379
               }
             },
             {
@@ -2474,7 +2628,7 @@
                 "last_commit": "2026-08-22T02:15:33Z",
                 "owner": "semlinker",
                 "repo": "awesome-typescript",
-                "stars": 4042
+                "stars": 4044
               }
             }
           ],
@@ -2496,7 +2650,7 @@
                 "last_commit": "2026-08-14T00:57:28Z",
                 "owner": "denolib",
                 "repo": "awesome-deno",
-                "stars": 4409
+                "stars": 4408
               }
             },
             {
@@ -2511,7 +2665,7 @@
                 "last_commit": "2026-08-14T00:57:28Z",
                 "owner": "denolib",
                 "repo": "awesome-deno",
-                "stars": 4409
+                "stars": 4408
               }
             },
             {
@@ -2561,7 +2715,7 @@
                     "last_commit": "2026-08-14T00:57:28Z",
                     "owner": "denolib",
                     "repo": "awesome-deno",
-                    "stars": 4409
+                    "stars": 4408
                   }
                 }
               ]
@@ -2576,7 +2730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:01:52.673Z",
+    "last_updated": "2026-08-24T14:23:21.446Z",
     "original_repository": "esmadrider/awesome-deno-cn",
     "original_repository_id": 255276237,
     "original_repository_sha": "4f89b4004c8bcb6b4f7bc020426c2e31e84be14e",
