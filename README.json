@@ -105,10 +105,10 @@
             "archived": false,
             "id": 133442384,
             "language": "Rust",
-            "last_commit": "2026-08-24T15:46:11Z",
+            "last_commit": "2026-08-25T00:56:49Z",
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108295
+            "stars": 108300
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-06-16T06:06:45Z",
             "owner": "cacjs",
             "repo": "cac",
-            "stars": 3124
+            "stars": 3123
           }
         },
         {
@@ -489,7 +489,7 @@
                     "archived": false,
                     "id": 171999885,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T14:00:57Z",
+                    "last_commit": "2026-08-25T02:00:19Z",
                     "owner": "drashland",
                     "repo": "drash",
                     "stars": 1067
@@ -1118,7 +1118,7 @@
                     "last_commit": "2026-06-16T06:06:45Z",
                     "owner": "cacjs",
                     "repo": "cac",
-                    "stars": 3124
+                    "stars": 3123
                   }
                 },
                 {
@@ -1670,7 +1670,7 @@
                     "last_commit": "2026-08-20T07:50:40Z",
                     "owner": "sindresorhus",
                     "repo": "type-fest",
-                    "stars": 17381
+                    "stars": 17382
                   }
                 },
                 {
@@ -2550,10 +2550,10 @@
                 "archived": false,
                 "id": 21540759,
                 "language": "Go",
-                "last_commit": "2026-08-24T16:07:27Z",
+                "last_commit": "2026-08-25T00:32:48Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182125
+                "stars": 182172
               }
             },
             {
@@ -2568,7 +2568,7 @@
                 "last_commit": "2026-05-03T08:24:10Z",
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66610
+                "stars": 66621
               }
             },
             {
@@ -2583,7 +2583,7 @@
                 "last_commit": "2026-08-24T07:28:27Z",
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 58959
+                "stars": 58963
               }
             },
             {
@@ -2730,7 +2730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:16:34.587Z",
+    "last_updated": "2026-08-25T06:20:18.999Z",
     "original_repository": "esmadrider/awesome-deno-cn",
     "original_repository_id": 255276237,
     "original_repository_sha": "4f89b4004c8bcb6b4f7bc020426c2e31e84be14e",
