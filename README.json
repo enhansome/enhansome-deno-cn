@@ -108,7 +108,7 @@
             "last_commit": "2026-08-26T16:42:05Z",
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108305
+            "stars": 108319
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-08-03T10:50:35Z",
             "owner": "denoland",
             "repo": "std",
-            "stars": 3558
+            "stars": 3559
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-06-16T06:06:45Z",
             "owner": "cacjs",
             "repo": "cac",
-            "stars": 3124
+            "stars": 3125
           }
         },
         {
@@ -489,7 +489,7 @@
                     "archived": false,
                     "id": 171999885,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-26T17:24:18Z",
+                    "last_commit": "2026-08-27T11:32:42Z",
                     "owner": "drashland",
                     "repo": "drash",
                     "stars": 1067
@@ -836,7 +836,7 @@
                   "description": "：用于 Deno 的轻量级测试框架。",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "id": 273513411,
                     "language": "TypeScript",
                     "last_commit": "2024-05-31T00:34:52Z",
@@ -1118,7 +1118,7 @@
                     "last_commit": "2026-06-16T06:06:45Z",
                     "owner": "cacjs",
                     "repo": "cac",
-                    "stars": 3124
+                    "stars": 3125
                   }
                 },
                 {
@@ -1670,7 +1670,7 @@
                     "last_commit": "2026-08-26T12:21:42Z",
                     "owner": "sindresorhus",
                     "repo": "type-fest",
-                    "stars": 17381
+                    "stars": 17382
                   }
                 },
                 {
@@ -2550,10 +2550,10 @@
                 "archived": false,
                 "id": 21540759,
                 "language": "Go",
-                "last_commit": "2026-08-26T18:25:07Z",
+                "last_commit": "2026-08-27T09:04:15Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182327
+                "stars": 182404
               }
             },
             {
@@ -2568,7 +2568,7 @@
                 "last_commit": "2026-05-03T08:24:10Z",
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66622
+                "stars": 66625
               }
             },
             {
@@ -2583,7 +2583,7 @@
                 "last_commit": "2026-08-24T07:28:27Z",
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 58982
+                "stars": 58992
               }
             },
             {
@@ -2730,9 +2730,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:25:27.389Z",
-    "original_repository": "esmadrider/awesome-deno-cn",
-    "original_repository_id": 255276237,
+    "last_updated": "2026-08-27T11:38:26.640Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 255276237,
+      "language": null,
+      "last_commit": "2022-07-04T12:41:09Z",
+      "owner": "esmadrider",
+      "repo": "awesome-deno-cn",
+      "stars": 473
+    },
     "original_repository_sha": "4f89b4004c8bcb6b4f7bc020426c2e31e84be14e",
     "enhanced_repository": "enhansome/enhansome-deno-cn",
     "enhanced_repository_description": null,
