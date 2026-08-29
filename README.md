@@ -63,11 +63,11 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 
 > 以下仓库从下方其他章节精选。
 
-* [@denoland/deno](https://github.com/denoland/deno) ⭐ 108,335 | 🐛 1,533 | 🌐 Rust | 📅 2026-08-28：🌟。Deno 核心仓库。
+* [@denoland/deno](https://github.com/denoland/deno) ⭐ 108,336 | 🐛 1,534 | 🌐 Rust | 📅 2026-08-28：🌟。Deno 核心仓库。
 * [@oakserver/oak](https://github.com/oakserver/oak/) ⭐ 5,411 | 🐛 52 | 🌐 TypeScript | 📅 2026-02-22：🌟。Den Web 框架。
 * [@alephjs/aleph.js](https://github.com/alephjs/aleph.js) ⚠️ Archived：🌟。Deno React 全栈框架。
 * [@denoland/deno\_std](https://github.com/denoland/deno_std) ⭐ 3,560 | 🐛 315 | 🌐 TypeScript | 📅 2026-08-03：🌟。Deno 标准库。
-* [@cacjs/cac](https://github.com/cacjs/cac) ⭐ 3,126 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-28：🌟。用于构建命令行应用程序的简单但功能强大的框架。
+* [@cacjs/cac](https://github.com/cacjs/cac) ⭐ 3,127 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-28：🌟。用于构建命令行应用程序的简单但功能强大的框架。
 * [denoify](https://github.com/garronej/denoify) ⭐ 949 | 🐛 14 | 🌐 TypeScript | 📅 2025-10-01：🌟。对于希望支持 Deno 但不想编写和维护端口的 NPM 模块作者。
 * [@crewdevio/trex](https://github.com/crewdevio/Trex) ⭐ 726 | 🐛 7 | 🌐 TypeScript | 📅 2023-08-18：🌟。像 npm 一样的 deno 软件包管理。
 * [@divy-work/autopilot](https://github.com/divy-work/autopilot-deno) ⭐ 503 | 🐛 9 | 🌐 Rust | 📅 2022-07-22：🌟。用于 Deno 的跨平台桌面自动化框架。
@@ -183,7 +183,7 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 
 #### 命令行工具
 
-* [@cacjs/cac](https://github.com/cacjs/cac) ⭐ 3,126 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-28：🌟。用于构建命令行应用程序的简单但功能强大的框架。
+* [@cacjs/cac](https://github.com/cacjs/cac) ⭐ 3,127 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-28：🌟。用于构建命令行应用程序的简单但功能强大的框架。
 * [@siokas/denomander](https://github.com/siokas/denomander) ⭐ 152 | 🐛 3 | 🌐 TypeScript | 📅 2025-02-20：Deno 命令行界面的灵感来自 commander.js。
 * [@syumai/denoinit](https://github.com/syumai/deno-libs) ⭐ 31 | 🐛 1 | 🌐 TypeScript | 📅 2021-03-29：Deno 下简单的命令工具集。
 * [@syumai/denoget](https://github.com/syumai/denoget) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2019-06-22：Deno 获取安装的可执行 Deno 脚本。
@@ -558,9 +558,9 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 
 > Deno 本身依赖的技术的清单库。
 
-* [@avelino/awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,553 | 🐛 219 | 🌐 Go | 📅 2026-08-28。
+* [@avelino/awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,561 | 🐛 219 | 🌐 Go | 📅 2026-08-28。
 * [@sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,640 | 🐛 26 | 📅 2026-05-03。
-* [@rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,030 | 🐛 7 | 🌐 Rust | 📅 2026-08-28。
+* [@rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,031 | 🐛 8 | 🌐 Rust | 📅 2026-08-28。
 * [@jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn) ⭐ 7,380 | 🐛 15 | 📅 2024-05-22。
 * [@dzharii/awesome-typeScript](https://github.com/dzharii/awesome-typescript) ⚠️ Archived。
 * [@semlinker/awesome-typeScript](https://github.com/semlinker/awesome-typescript) ⭐ 4,045 | 🐛 107 | 📅 2026-08-22。
