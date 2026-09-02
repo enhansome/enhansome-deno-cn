@@ -157,11 +157,11 @@
             "id": 133442384,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-01T17:00:19Z",
-            "open_issues": 1540,
+            "last_commit": "2026-09-02T11:19:19Z",
+            "open_issues": 1541,
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108361,
+            "stars": 108369,
             "topics": [
               "deno",
               "javascript",
@@ -249,7 +249,7 @@
             "open_issues": 316,
             "owner": "denoland",
             "repo": "std",
-            "stars": 3561,
+            "stars": 3562,
             "topics": [
               "deno",
               "javascript",
@@ -1596,7 +1596,7 @@
                     "open_issues": 38,
                     "owner": "denodrivers",
                     "repo": "postgres",
-                    "stars": 656,
+                    "stars": 655,
                     "topics": [
                       "deno",
                       "deno-postgres",
@@ -2763,11 +2763,11 @@
                     "id": 175398594,
                     "language": "TypeScript",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-08-31T17:03:07Z",
+                    "last_commit": "2026-09-02T02:13:04Z",
                     "open_issues": 227,
                     "owner": "sindresorhus",
                     "repo": "type-fest",
-                    "stars": 17387,
+                    "stars": 17389,
                     "topics": [
                       "npm-package",
                       "types",
@@ -2880,7 +2880,7 @@
                     "open_issues": 27,
                     "owner": "denosaurs",
                     "repo": "denon",
-                    "stars": 1108,
+                    "stars": 1107,
                     "topics": [
                       "daemon",
                       "deno",
@@ -3371,7 +3371,7 @@
                     "open_issues": 104,
                     "owner": "FredKSchott",
                     "repo": "pika-pack-builders",
-                    "stars": 160,
+                    "stars": 159,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:28.148Z"
@@ -4268,11 +4268,11 @@
                 "id": 21540759,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-01T04:21:01Z",
-                "open_issues": 225,
+                "last_commit": "2026-09-02T18:48:17Z",
+                "open_issues": 223,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182888,
+                "stars": 182963,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4296,11 +4296,11 @@
                 "id": 21737266,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-05-03T08:24:10Z",
+                "last_commit": "2026-09-02T02:11:34Z",
                 "open_issues": 26,
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66677,
+                "stars": 66685,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4324,11 +4324,11 @@
                 "id": 21938243,
                 "language": "Rust",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-01T18:20:37Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-02T17:39:06Z",
+                "open_issues": 8,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59097,
+                "stars": 59125,
                 "topics": [
                   "awesome",
                   "rust"
@@ -4352,7 +4352,7 @@
                 "open_issues": 15,
                 "owner": "jobbole",
                 "repo": "awesome-go-cn",
-                "stars": 7379,
+                "stars": 7377,
                 "topics": [
                   "go",
                   "golang"
@@ -4397,7 +4397,7 @@
                 "open_issues": 108,
                 "owner": "semlinker",
                 "repo": "awesome-typescript",
-                "stars": 4047,
+                "stars": 4046,
                 "topics": [
                   "awesome-list",
                   "react-typescripts",
@@ -4548,7 +4548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:37:30.438Z",
+    "last_updated": "2026-09-02T19:30:53.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦖 长期维护！中文圈下与 Deno 相关的 Awesome 资源全图谱",
