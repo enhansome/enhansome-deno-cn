@@ -157,11 +157,11 @@
             "id": 133442384,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-07T16:40:52Z",
-            "open_issues": 1557,
+            "last_commit": "2026-09-08T19:31:06Z",
+            "open_issues": 1548,
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108391,
+            "stars": 108402,
             "topics": [
               "deno",
               "javascript",
@@ -187,7 +187,7 @@
             "open_issues": 52,
             "owner": "oakserver",
             "repo": "oak",
-            "stars": 5411,
+            "stars": 5410,
             "topics": [
               "deno",
               "http-server",
@@ -246,7 +246,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-03T10:50:35Z",
-            "open_issues": 328,
+            "open_issues": 330,
             "owner": "denoland",
             "repo": "std",
             "stars": 3564,
@@ -805,7 +805,7 @@
                     "open_issues": 52,
                     "owner": "oakserver",
                     "repo": "oak",
-                    "stars": 5411,
+                    "stars": 5410,
                     "topics": [
                       "deno",
                       "http-server",
@@ -2763,8 +2763,8 @@
                     "id": 175398594,
                     "language": "TypeScript",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-02T02:13:04Z",
-                    "open_issues": 229,
+                    "last_commit": "2026-09-08T13:15:16Z",
+                    "open_issues": 227,
                     "owner": "sindresorhus",
                     "repo": "type-fest",
                     "stars": 17399,
@@ -4121,7 +4121,7 @@
                 "open_issues": 31,
                 "owner": "ryo-ma",
                 "repo": "github-profile-trophy",
-                "stars": 6647,
+                "stars": 6648,
                 "topics": [
                   "deno",
                   "github",
@@ -4268,11 +4268,11 @@
                 "id": 21540759,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-07T19:42:24Z",
-                "open_issues": 224,
+                "last_commit": "2026-09-08T13:39:01Z",
+                "open_issues": 227,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 183437,
+                "stars": 183527,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4300,7 +4300,7 @@
                 "open_issues": 25,
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66727,
+                "stars": 66739,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4324,11 +4324,11 @@
                 "id": 21938243,
                 "language": "Rust",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-07T15:10:32Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-08T17:30:24Z",
+                "open_issues": 9,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59228,
+                "stars": 59244,
                 "topics": [
                   "awesome",
                   "rust"
@@ -4352,7 +4352,7 @@
                 "open_issues": 15,
                 "owner": "jobbole",
                 "repo": "awesome-go-cn",
-                "stars": 7377,
+                "stars": 7379,
                 "topics": [
                   "go",
                   "golang"
@@ -4548,7 +4548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:10:10.253Z",
+    "last_updated": "2026-09-08T19:36:17.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦖 长期维护！中文圈下与 Deno 相关的 Awesome 资源全图谱",
