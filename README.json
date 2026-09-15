@@ -157,11 +157,11 @@
             "id": 133442384,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-14T16:23:08Z",
-            "open_issues": 1584,
+            "last_commit": "2026-09-15T19:05:47Z",
+            "open_issues": 1586,
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108435,
+            "stars": 108454,
             "topics": [
               "deno",
               "javascript",
@@ -246,10 +246,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-03T10:50:35Z",
-            "open_issues": 333,
+            "open_issues": 334,
             "owner": "denoland",
             "repo": "std",
-            "stars": 3562,
+            "stars": 3563,
             "topics": [
               "deno",
               "javascript",
@@ -409,7 +409,7 @@
                     "language": "TypeScript",
                     "license": null,
                     "last_commit": "2025-08-14T15:38:12Z",
-                    "open_issues": 9,
+                    "open_issues": 8,
                     "owner": "egoist-labs",
                     "repo": "denopkg.com",
                     "stars": 239,
@@ -1564,7 +1564,7 @@
                     "open_issues": 105,
                     "owner": "eveningkid",
                     "repo": "denodb",
-                    "stars": 1919,
+                    "stars": 1918,
                     "topics": [
                       "database",
                       "deno",
@@ -2089,7 +2089,7 @@
                     "open_issues": 7,
                     "owner": "denorg",
                     "repo": "qrcode",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": [
                       "deno",
                       "denoland",
@@ -4268,11 +4268,11 @@
                 "id": 21540759,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-14T14:24:46Z",
+                "last_commit": "2026-09-15T01:52:41Z",
                 "open_issues": 231,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 184144,
+                "stars": 184263,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4300,7 +4300,7 @@
                 "open_issues": 25,
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66803,
+                "stars": 66815,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4324,11 +4324,11 @@
                 "id": 21938243,
                 "language": "Rust",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-14T13:34:18Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-15T09:34:09Z",
+                "open_issues": 11,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59342,
+                "stars": 59354,
                 "topics": [
                   "awesome",
                   "rust"
@@ -4352,7 +4352,7 @@
                 "open_issues": 15,
                 "owner": "jobbole",
                 "repo": "awesome-go-cn",
-                "stars": 7377,
+                "stars": 7378,
                 "topics": [
                   "go",
                   "golang"
@@ -4376,7 +4376,7 @@
                 "open_issues": 3,
                 "owner": "dzharii",
                 "repo": "awesome-typescript",
-                "stars": 5116,
+                "stars": 5115,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:28.148Z"
@@ -4548,7 +4548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:37:17.200Z",
+    "last_updated": "2026-09-15T19:50:29.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦖 长期维护！中文圈下与 Deno 相关的 Awesome 资源全图谱",
