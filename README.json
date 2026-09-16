@@ -157,11 +157,11 @@
             "id": 133442384,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-15T19:05:47Z",
-            "open_issues": 1586,
+            "last_commit": "2026-09-16T16:05:26Z",
+            "open_issues": 1587,
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108454,
+            "stars": 108463,
             "topics": [
               "deno",
               "javascript",
@@ -187,7 +187,7 @@
             "open_issues": 52,
             "owner": "oakserver",
             "repo": "oak",
-            "stars": 5409,
+            "stars": 5408,
             "topics": [
               "deno",
               "http-server",
@@ -805,7 +805,7 @@
                     "open_issues": 52,
                     "owner": "oakserver",
                     "repo": "oak",
-                    "stars": 5409,
+                    "stars": 5408,
                     "topics": [
                       "deno",
                       "http-server",
@@ -833,7 +833,7 @@
                     "open_issues": 2,
                     "owner": "drashland",
                     "repo": "drash",
-                    "stars": 1064,
+                    "stars": 1063,
                     "topics": [
                       "bun",
                       "cloudflare",
@@ -920,7 +920,7 @@
                     "open_issues": 10,
                     "owner": "keroxp",
                     "repo": "servest",
-                    "stars": 719,
+                    "stars": 718,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:28.148Z"
@@ -1624,7 +1624,7 @@
                     "open_issues": 8,
                     "owner": "halvardssm",
                     "repo": "deno-nessie",
-                    "stars": 519,
+                    "stars": 518,
                     "topics": [
                       "deno",
                       "deno-mysql",
@@ -1685,7 +1685,7 @@
                     "open_issues": 40,
                     "owner": "denodrivers",
                     "repo": "redis",
-                    "stars": 465,
+                    "stars": 464,
                     "topics": [
                       "deno",
                       "redis"
@@ -2763,8 +2763,8 @@
                     "id": 175398594,
                     "language": "TypeScript",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-08T13:15:16Z",
-                    "open_issues": 230,
+                    "last_commit": "2026-09-16T03:48:41Z",
+                    "open_issues": 229,
                     "owner": "sindresorhus",
                     "repo": "type-fest",
                     "stars": 17409,
@@ -4268,11 +4268,11 @@
                 "id": 21540759,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-15T01:52:41Z",
+                "last_commit": "2026-09-16T12:50:43Z",
                 "open_issues": 231,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 184263,
+                "stars": 184384,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4300,7 +4300,7 @@
                 "open_issues": 25,
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66815,
+                "stars": 66826,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4324,11 +4324,11 @@
                 "id": 21938243,
                 "language": "Rust",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-15T09:34:09Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-16T10:59:58Z",
+                "open_issues": 12,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59354,
+                "stars": 59380,
                 "topics": [
                   "awesome",
                   "rust"
@@ -4548,7 +4548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:50:29.414Z",
+    "last_updated": "2026-09-16T19:42:55.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦖 长期维护！中文圈下与 Deno 相关的 Awesome 资源全图谱",
