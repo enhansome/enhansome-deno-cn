@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "denolib",
                 "repo": "awesome-deno",
-                "stars": 4409,
+                "stars": 4410,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -157,11 +157,11 @@
             "id": 133442384,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-22T00:30:07Z",
-            "open_issues": 1617,
+            "last_commit": "2026-09-25T18:11:26Z",
+            "open_issues": 1618,
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108499,
+            "stars": 108506,
             "topics": [
               "deno",
               "javascript",
@@ -245,11 +245,11 @@
             "id": 156498505,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T08:42:24Z",
-            "open_issues": 318,
+            "last_commit": "2026-09-25T17:23:44Z",
+            "open_issues": 317,
             "owner": "denoland",
             "repo": "std",
-            "stars": 3564,
+            "stars": 3563,
             "topics": [
               "deno",
               "javascript",
@@ -274,7 +274,7 @@
             "open_issues": 39,
             "owner": "cacjs",
             "repo": "cac",
-            "stars": 3133,
+            "stars": 3134,
             "topics": [
               "cli",
               "command-line",
@@ -717,29 +717,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "@BoltDoggy/dpm",
-                  "description": "：Deno 软件包管理器，为 Deno 安装全局命令，比如 Denoget。—— DVM。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "Some modules for Deno.",
-                    "homepage": "https://deno.boltdoggy.com/",
-                    "id": 170812555,
-                    "language": "TypeScript",
-                    "license": null,
-                    "last_commit": "2021-05-09T02:57:40Z",
-                    "open_issues": 1,
-                    "owner": "BoltDoggy",
-                    "repo": "deno",
-                    "stars": 11,
-                    "topics": [
-                      "deno"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T00:42:28.148Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "@eankeen/ensure",
                   "description": "：确保您运行的是 Deno，Typescript 或 V8 的最低版本。",
                   "children": [],
@@ -1036,7 +1013,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "A minimal and fast 🏃 HTTP server framework for Deno.",
+                    "description": "A minimal and fast HTTP server framework for Deno.",
                     "homepage": null,
                     "id": 262833734,
                     "language": "TypeScript",
@@ -1894,7 +1871,7 @@
                     "open_issues": 39,
                     "owner": "cacjs",
                     "repo": "cac",
-                    "stars": 3133,
+                    "stars": 3134,
                     "topics": [
                       "cli",
                       "command-line",
@@ -2614,8 +2591,8 @@
                     "id": 262098081,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-07-02T13:35:18Z",
-                    "open_issues": 127,
+                    "last_commit": "2026-09-24T21:54:31Z",
+                    "open_issues": 126,
                     "owner": "denoland",
                     "repo": "vscode_deno",
                     "stars": 1547,
@@ -2764,10 +2741,10 @@
                     "language": "TypeScript",
                     "license": "CC0-1.0",
                     "last_commit": "2026-09-18T19:17:32Z",
-                    "open_issues": 228,
+                    "open_issues": 226,
                     "owner": "sindresorhus",
                     "repo": "type-fest",
-                    "stars": 17418,
+                    "stars": 17417,
                     "topics": [
                       "npm-package",
                       "types",
@@ -4121,7 +4098,7 @@
                 "open_issues": 33,
                 "owner": "ryo-ma",
                 "repo": "github-profile-trophy",
-                "stars": 6656,
+                "stars": 6660,
                 "topics": [
                   "deno",
                   "github",
@@ -4268,11 +4245,11 @@
                 "id": 21540759,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-24T13:40:21Z",
+                "last_commit": "2026-09-25T11:24:00Z",
                 "open_issues": 229,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 185416,
+                "stars": 185568,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4300,7 +4277,7 @@
                 "open_issues": 24,
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66919,
+                "stars": 66923,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4324,11 +4301,11 @@
                 "id": 21938243,
                 "language": "Rust",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-24T15:57:56Z",
+                "last_commit": "2026-09-25T12:26:13Z",
                 "open_issues": 9,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59528,
+                "stars": 59548,
                 "topics": [
                   "awesome",
                   "rust"
@@ -4394,7 +4371,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-22T02:15:33Z",
-                "open_issues": 115,
+                "open_issues": 114,
                 "owner": "semlinker",
                 "repo": "awesome-typescript",
                 "stars": 4049,
@@ -4430,7 +4407,7 @@
                 "open_issues": 3,
                 "owner": "denolib",
                 "repo": "awesome-deno",
-                "stars": 4409,
+                "stars": 4410,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4455,7 +4432,7 @@
                 "open_issues": 3,
                 "owner": "denolib",
                 "repo": "awesome-deno",
-                "stars": 4409,
+                "stars": 4410,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4527,7 +4504,7 @@
                     "open_issues": 3,
                     "owner": "denolib",
                     "repo": "awesome-deno",
-                    "stars": 4409,
+                    "stars": 4410,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -4548,7 +4525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:09:27.735Z",
+    "last_updated": "2026-09-25T20:08:27.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦖 长期维护！中文圈下与 Deno 相关的 Awesome 资源全图谱",
