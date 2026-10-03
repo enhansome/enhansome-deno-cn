@@ -158,10 +158,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-01T17:20:25Z",
-            "open_issues": 1649,
+            "open_issues": 1653,
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108550,
+            "stars": 108571,
             "topics": [
               "deno",
               "javascript",
@@ -1658,8 +1658,8 @@
                     "id": 163508735,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T03:51:06Z",
-                    "open_issues": 41,
+                    "last_commit": "2026-10-03T07:19:51Z",
+                    "open_issues": 40,
                     "owner": "denodrivers",
                     "repo": "redis",
                     "stars": 465,
@@ -2062,11 +2062,11 @@
                     "id": 264291724,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-01T08:08:40Z",
+                    "last_commit": "2026-10-03T08:07:57Z",
                     "open_issues": 7,
                     "owner": "denorg",
                     "repo": "qrcode",
-                    "stars": 46,
+                    "stars": 47,
                     "topics": [
                       "deno",
                       "denoland",
@@ -2744,7 +2744,7 @@
                     "open_issues": 225,
                     "owner": "sindresorhus",
                     "repo": "type-fest",
-                    "stars": 17431,
+                    "stars": 17433,
                     "topics": [
                       "npm-package",
                       "types",
@@ -3135,7 +3135,7 @@
                     "open_issues": 0,
                     "owner": "denorg",
                     "repo": "starter",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": [
                       "deno",
                       "denoland",
@@ -3276,7 +3276,7 @@
                     "language": "JavaScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-31T16:42:58Z",
-                    "open_issues": 52,
+                    "open_issues": 53,
                     "owner": "a-synchronous",
                     "repo": "rubico",
                     "stars": 283,
@@ -3708,6 +3708,34 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "@denorg/up",
+                  "description": "：检查是否在 Deno 中建立了网站。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "🔌 Check if a website is up with Deno",
+                    "homepage": "https://denorg.github.io/up/",
+                    "id": 264043957,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2020-06-01T11:51:35Z",
+                    "open_issues": 0,
+                    "owner": "denorg",
+                    "repo": "up",
+                    "stars": 15,
+                    "topics": [
+                      "deno",
+                      "denoland",
+                      "denorg",
+                      "network",
+                      "online",
+                      "typescript"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:42:28.148Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "@MarkTiedemann/deno.mk",
                   "description": "：用于安装和运行 Deno 的跨平台 Makefile。",
                   "children": [],
@@ -3724,34 +3752,6 @@
                     "repo": "deno.mk",
                     "stars": 15,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:42:28.148Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@denorg/up",
-                  "description": "：检查是否在 Deno 中建立了网站。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "🔌 Check if a website is up with Deno",
-                    "homepage": "https://denorg.github.io/up/",
-                    "id": 264043957,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2020-06-01T11:51:35Z",
-                    "open_issues": 0,
-                    "owner": "denorg",
-                    "repo": "up",
-                    "stars": 14,
-                    "topics": [
-                      "deno",
-                      "denoland",
-                      "denorg",
-                      "network",
-                      "online",
-                      "typescript"
-                    ]
                   },
                   "first_seen": "2026-08-29T00:42:28.148Z"
                 },
@@ -4095,7 +4095,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-07-25T00:05:17Z",
-                "open_issues": 34,
+                "open_issues": 33,
                 "owner": "ryo-ma",
                 "repo": "github-profile-trophy",
                 "stars": 6666,
@@ -4245,11 +4245,11 @@
                 "id": 21540759,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:11:10Z",
-                "open_issues": 234,
+                "last_commit": "2026-10-03T16:56:50Z",
+                "open_issues": 85,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 186646,
+                "stars": 186741,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4277,7 +4277,7 @@
                 "open_issues": 24,
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66985,
+                "stars": 66993,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4301,11 +4301,11 @@
                 "id": 21938243,
                 "language": "Rust",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-01T21:08:44Z",
+                "last_commit": "2026-10-03T15:49:08Z",
                 "open_issues": 9,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59657,
+                "stars": 59664,
                 "topics": [
                   "awesome",
                   "rust"
@@ -4353,7 +4353,7 @@
                 "open_issues": 3,
                 "owner": "dzharii",
                 "repo": "awesome-typescript",
-                "stars": 5114,
+                "stars": 5113,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:28.148Z"
@@ -4525,7 +4525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:39:53.291Z",
+    "last_updated": "2026-10-03T19:29:06.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦖 长期维护！中文圈下与 Deno 相关的 Awesome 资源全图谱",
