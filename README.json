@@ -78,7 +78,7 @@
             {
               "node_type": "item",
               "title": "中文：@denodev/typedoc",
-              "description": "。",
+              "description": "denodev/typedoc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -158,10 +158,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-01T17:20:25Z",
-            "open_issues": 1647,
+            "open_issues": 1649,
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108545,
+            "stars": 108550,
             "topics": [
               "deno",
               "javascript",
@@ -3335,7 +3335,7 @@
                 {
                   "node_type": "item",
                   "title": "@pikapkg/builders/.../pika-Deno-plugin",
-                  "description": "。",
+                  "description": "FredKSchott/pika-pack-builders",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3857,7 +3857,7 @@
                 {
                   "node_type": "item",
                   "title": "@AlpacaBi/qrcode_terminal",
-                  "description": "。",
+                  "description": "AlpacaBi/qrcode_terminal",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4052,7 +4052,7 @@
                 {
                   "node_type": "item",
                   "title": "@maman/deno-playground",
-                  "description": "。",
+                  "description": "maman/deno-playground",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4236,7 +4236,7 @@
             {
               "node_type": "item",
               "title": "@avelino/awesome-go",
-              "description": "。",
+              "description": "avelino/awesome-go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4245,11 +4245,11 @@
                 "id": 21540759,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T14:59:32Z",
+                "last_commit": "2026-10-03T00:11:10Z",
                 "open_issues": 234,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 186595,
+                "stars": 186646,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4264,7 +4264,7 @@
             {
               "node_type": "item",
               "title": "@sindresorhus/awesome-nodejs",
-              "description": "。",
+              "description": "sindresorhus/awesome-nodejs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4277,7 +4277,7 @@
                 "open_issues": 24,
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66976,
+                "stars": 66985,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4292,7 +4292,7 @@
             {
               "node_type": "item",
               "title": "@rust-unofficial/awesome-rust",
-              "description": "。",
+              "description": "rust-unofficial/awesome-rust",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4305,7 +4305,7 @@
                 "open_issues": 9,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59644,
+                "stars": 59657,
                 "topics": [
                   "awesome",
                   "rust"
@@ -4316,7 +4316,7 @@
             {
               "node_type": "item",
               "title": "@jobbole/awesome-go-cn",
-              "description": "。",
+              "description": "jobbole/awesome-go-cn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4340,7 +4340,7 @@
             {
               "node_type": "item",
               "title": "@dzharii/awesome-typeScript",
-              "description": "。",
+              "description": "dzharii/awesome-typescript",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4361,7 +4361,7 @@
             {
               "node_type": "item",
               "title": "@semlinker/awesome-typeScript",
-              "description": "。",
+              "description": "semlinker/awesome-typescript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4370,8 +4370,8 @@
                 "id": 148978247,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-08-22T02:15:33Z",
-                "open_issues": 118,
+                "last_commit": "2026-10-03T01:26:40Z",
+                "open_issues": 117,
                 "owner": "semlinker",
                 "repo": "awesome-typescript",
                 "stars": 4049,
@@ -4525,7 +4525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:00:12.039Z",
+    "last_updated": "2026-10-03T04:39:53.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦖 长期维护！中文圈下与 Deno 相关的 Awesome 资源全图谱",
