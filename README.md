@@ -63,10 +63,10 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 
 > 以下仓库从下方其他章节精选。
 
-* [@denoland/deno](https://github.com/denoland/deno) ⭐ 108,571 | 🐛 1,653 | 🌐 Rust | 📅 2026-10-01：🌟。Deno 核心仓库。
+* [@denoland/deno](https://github.com/denoland/deno) ⭐ 108,634 | 🐛 1,659 | 🌐 Rust | 📅 2026-10-01：🌟。Deno 核心仓库。
 * [@oakserver/oak](https://github.com/oakserver/oak/) ⭐ 5,409 | 🐛 52 | 🌐 TypeScript | 📅 2026-02-22：🌟。Den Web 框架。
 * [@alephjs/aleph.js](https://github.com/alephjs/aleph.js) ⚠️ Archived：🌟。Deno React 全栈框架。
-* [@denoland/deno\_std](https://github.com/denoland/deno_std) ⭐ 3,560 | 🐛 324 | 🌐 TypeScript | 📅 2026-09-25：🌟。Deno 标准库。
+* [@denoland/deno\_std](https://github.com/denoland/deno_std) ⭐ 3,559 | 🐛 327 | 🌐 TypeScript | 📅 2026-09-25：🌟。Deno 标准库。
 * [@cacjs/cac](https://github.com/cacjs/cac) ⭐ 3,136 | 🐛 40 | 🌐 TypeScript | 📅 2026-09-18：🌟。用于构建命令行应用程序的简单但功能强大的框架。
 * [denoify](https://github.com/garronej/denoify) ⭐ 949 | 🐛 14 | 🌐 TypeScript | 📅 2025-10-01：🌟。对于希望支持 Deno 但不想编写和维护端口的 NPM 模块作者。
 * [@crewdevio/trex](https://github.com/crewdevio/Trex) ⭐ 726 | 🐛 7 | 🌐 TypeScript | 📅 2023-08-18：🌟。像 npm 一样的 deno 软件包管理。
@@ -164,7 +164,7 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 #### 数据库
 
 * [@eveningkid/denodb](https://github.com/eveningkid/denodb) ⭐ 1,915 | 🐛 105 | 🌐 TypeScript | 📅 2023-10-28：适用于 Deno 的 MySQL、SQLite、MariaDB、PostgreSQL 和 MongoDB ORM。
-* [@buildondata/deno-postgres](https://github.com/buildondata/deno-postgres) ⭐ 654 | 🐛 39 | 🌐 TypeScript | 📅 2025-04-24：PostgreSQL 数据库驱动程序。
+* [@buildondata/deno-postgres](https://github.com/buildondata/deno-postgres) ⭐ 653 | 🐛 39 | 🌐 TypeScript | 📅 2025-04-24：PostgreSQL 数据库驱动程序。
 * [@halvardssm/deno-nessie](https://github.com/halvardssm/deno-nessie) ⭐ 520 | 🐛 8 | 🌐 TypeScript | 📅 2024-04-10：为 PostgreSQL、MySQL 和 SQLite 创建，迁移和回滚迁移。
 * [@manyuanrong/deno\_mongo](https://github.com/manyuanrong/deno_mongo) ⭐ 511 | 🐛 48 | 🌐 TypeScript | 📅 2025-03-14：MongoDB 数据库驱动程序。
 * [@keroxp/deno-redis](https://github.com/keroxp/deno-redis) ⭐ 465 | 🐛 40 | 🌐 TypeScript | 📅 2026-10-03：Redis Client for Deno 的实验性实现。
@@ -247,7 +247,7 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 
 #### TypeScript 相关
 
-* [@sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) ⭐ 17,433 | 🐛 225 | 🌐 TypeScript | 📅 2026-09-18：基本 TypeScript 类型的集合（sindresorhus端口/ type-fest）。
+* [@sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) ⭐ 17,434 | 🐛 225 | 🌐 TypeScript | 📅 2026-09-18：基本 TypeScript 类型的集合（sindresorhus端口/ type-fest）。
 * [@neuledge/computed\_types](https://github.com/neuledge/computed-types) ⭐ 359 | 🐛 8 | 🌐 TypeScript | 📅 2026-06-15：类似 Joi 的 Typescript 和 Deno 验证器。
 * [@zhmushan/dev\_server](https://github.com/zhmushan/dev_server) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2021-08-29：让 TypeScript 文件直接在 script 标签中使用。
 * [@motss/deno\_mod](https://github.com/motss/deno_mod) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2020-04-18：一个 TypeScript 插件，它将允许 Deno 之外的 TypeScript 以类似于在 Deno 内部进行解析的方式来解析模块。⚠️ 已归档。
@@ -558,12 +558,12 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 
 > Deno 本身依赖的技术的清单库。
 
-* [@avelino/awesome-go](https://github.com/avelino/awesome-go) ⭐ 186,741 | 🐛 85 | 🌐 Go | 📅 2026-10-03。
-* [@sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,993 | 🐛 24 | 📅 2026-09-02。
-* [@rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,664 | 🐛 9 | 🌐 Rust | 📅 2026-10-03。
+* [@avelino/awesome-go](https://github.com/avelino/awesome-go) ⭐ 186,917 | 🐛 65 | 🌐 Go | 📅 2026-10-04。
+* [@sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,001 | 🐛 24 | 📅 2026-09-02。
+* [@rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,675 | 🐛 9 | 🌐 Rust | 📅 2026-10-04。
 * [@jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn) ⭐ 7,382 | 🐛 15 | 📅 2024-05-22。
 * [@dzharii/awesome-typeScript](https://github.com/dzharii/awesome-typescript) ⚠️ Archived。
-* [@semlinker/awesome-typeScript](https://github.com/semlinker/awesome-typescript) ⭐ 4,049 | 🐛 117 | 📅 2026-10-03。
+* [@semlinker/awesome-typeScript](https://github.com/semlinker/awesome-typescript) ⭐ 4,049 | 🐛 116 | 📅 2026-10-03。
 * ...逐步添加中，欢迎 Star & Fork & PR。
 
 ### 仓库更新日志
@@ -627,4 +627,4 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
