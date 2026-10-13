@@ -23,7 +23,7 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 
 ### 独特之处 🦖🦕
 
-* [x] 及时跟进 [@denolib/awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,411 | 🐛 8 | 📅 2026-09-28 仓库。
+* [x] 及时跟进 [@denolib/awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,411 | 🐛 6 | 📅 2026-10-13 仓库。
 * [x] 配套独家[《Deno 钻研之术》](https://github.com/hylerrix/deno-tutorial) ⭐ 790 | 🐛 10 | 🌐 TypeScript | 📅 2021-07-22电子书并随着本项目一起成长。
 * [x] 长期提供更新，收集越来越多高质量的 Deno 资源，愿我们与 Deno 一起成长。
 * [x] 随着 Deno 主版本进行版本归档更新。
@@ -63,11 +63,11 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 
 > 以下仓库从下方其他章节精选。
 
-* [@denoland/deno](https://github.com/denoland/deno) ⭐ 108,768 | 🐛 1,696 | 🌐 Rust | 📅 2026-10-07：🌟。Deno 核心仓库。
+* [@denoland/deno](https://github.com/denoland/deno) ⭐ 108,775 | 🐛 1,700 | 🌐 Rust | 📅 2026-10-07：🌟。Deno 核心仓库。
 * [@oakserver/oak](https://github.com/oakserver/oak/) ⭐ 5,406 | 🐛 53 | 🌐 TypeScript | 📅 2026-02-22：🌟。Den Web 框架。
 * [@alephjs/aleph.js](https://github.com/alephjs/aleph.js) ⚠️ Archived：🌟。Deno React 全栈框架。
-* [@denoland/deno\_std](https://github.com/denoland/deno_std) ⭐ 3,557 | 🐛 309 | 🌐 TypeScript | 📅 2026-09-25：🌟。Deno 标准库。
-* [@cacjs/cac](https://github.com/cacjs/cac) ⭐ 3,137 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-11：🌟。用于构建命令行应用程序的简单但功能强大的框架。
+* [@denoland/deno\_std](https://github.com/denoland/deno_std) ⭐ 3,558 | 🐛 309 | 🌐 TypeScript | 📅 2026-09-25：🌟。Deno 标准库。
+* [@cacjs/cac](https://github.com/cacjs/cac) ⭐ 3,138 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-11：🌟。用于构建命令行应用程序的简单但功能强大的框架。
 * [denoify](https://github.com/garronej/denoify) ⭐ 949 | 🐛 14 | 🌐 TypeScript | 📅 2025-10-01：🌟。对于希望支持 Deno 但不想编写和维护端口的 NPM 模块作者。
 * [@crewdevio/trex](https://github.com/crewdevio/Trex) ⭐ 726 | 🐛 7 | 🌐 TypeScript | 📅 2023-08-18：🌟。像 npm 一样的 deno 软件包管理。
 * [@divy-work/autopilot](https://github.com/divy-work/autopilot-deno) ⭐ 503 | 🐛 9 | 🌐 Rust | 📅 2022-07-22：🌟。用于 Deno 的跨平台桌面自动化框架。
@@ -94,7 +94,7 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 #### 包管理 && 配置管理
 
 * [@crewdevio/trex](https://github.com/crewdevio/Trex) ⭐ 726 | 🐛 7 | 🌐 TypeScript | 📅 2023-08-18：🌟。像 npm 一样的 deno 软件包管理。
-* [@justjavac/dvm](https://github.com/justjavac/dvm) ⭐ 711 | 🐛 10 | 🌐 Rust | 📅 2026-10-07：Deno 版本管理器：管理多个活动的 Deno 版本。
+* [@justjavac/dvm](https://github.com/justjavac/dvm) ⭐ 712 | 🐛 10 | 🌐 Rust | 📅 2026-10-07：Deno 版本管理器：管理多个活动的 Deno 版本。
 * [@umbopepato/velociraptor](https://github.com/umbopepato/velociraptor) ⭐ 667 | 🐛 20 | 🌐 TypeScript | 📅 2022-08-08：Deno 的 npm 风格脚本运行器。
 * [@axetroy/dvm](https://github.com/axetroy/dvm) ⭐ 165 | 🐛 14 | 🌐 Go | 📅 2024-08-27：没有运行时相关性的 Deno 版本管理器。
 * [@BentoumiTech/denox](https://github.com/BentoumiTech/denox) ⭐ 135 | 🐛 11 | 🌐 TypeScript | 📅 2022-08-05：类似于 package.json 脚本，但在 Deno 上具有权限支持。
@@ -183,7 +183,7 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 
 #### 命令行工具
 
-* [@cacjs/cac](https://github.com/cacjs/cac) ⭐ 3,137 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-11：🌟。用于构建命令行应用程序的简单但功能强大的框架。
+* [@cacjs/cac](https://github.com/cacjs/cac) ⭐ 3,138 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-11：🌟。用于构建命令行应用程序的简单但功能强大的框架。
 * [@siokas/denomander](https://github.com/siokas/denomander) ⭐ 152 | 🐛 3 | 🌐 TypeScript | 📅 2025-02-20：Deno 命令行界面的灵感来自 commander.js。
 * [@syumai/denoinit](https://github.com/syumai/deno-libs) ⭐ 31 | 🐛 1 | 🌐 TypeScript | 📅 2021-03-29：Deno 下简单的命令工具集。
 * [@syumai/denoget](https://github.com/syumai/denoget) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2019-06-22：Deno 获取安装的可执行 Deno 脚本。
@@ -201,7 +201,7 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 * [@denorg/qrcode](https://github.com/denorg/qrcode) ⭐ 47 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-03：Deno 的 QR 码图像生成器。
 * [@nekobato/deno-xml-parser](https://github.com/nekobato/deno-xml-parser) ⭐ 22 | 🐛 8 | 🌐 TypeScript | 📅 2020-12-15：一个从 segmentio/xml-parser 移植的 Deno XML 解析器。
 * [@jcardama/deno-slugify](https://github.com/jcardama/deno_slugify) ⭐ 20 | 🐛 2 | 🌐 TypeScript | 📅 2020-11-04：Deno 的字符串节流器。
-* [@Maxim-Mazurok/sax-ts](https://github.com/Maxim-Mazurok/sax-ts) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2024-03-17：从 [sax-js](https://github.com/isaacs/sax-js) ⭐ 1,156 | 🐛 102 | 🌐 JavaScript | 📅 2026-07-24 移植的 SAX 风格的 XML 解析器。
+* [@Maxim-Mazurok/sax-ts](https://github.com/Maxim-Mazurok/sax-ts) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2024-03-17：从 [sax-js](https://github.com/isaacs/sax-js) ⭐ 1,157 | 🐛 103 | 🌐 JavaScript | 📅 2026-07-24 移植的 SAX 风格的 XML 解析器。
 * [@manyuanrong/wasm-gzip](https://github.com/manyuanrong/wasm_gzip) ⭐ 19 | 🐛 1 | 🌐 JavaScript | 📅 2020-11-11：为 Deno 加密和解密 gzip。
 * [@denolib/ms](https://github.com/denolib/ms) ⭐ 17 | 🐛 0 | 🌐 TypeScript | 📅 2020-09-15：轻松地将各种时间格式转换为毫秒。
 * [@hashrock/deno-fnparse](https://github.com/hashrock/deno-fnparse) ⚠️ Archived：一个非常简单的 JavaScript 解析器、组合器。
@@ -247,7 +247,7 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 
 #### TypeScript 相关
 
-* [@sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) ⭐ 17,440 | 🐛 225 | 🌐 TypeScript | 📅 2026-09-18：基本 TypeScript 类型的集合（sindresorhus端口/ type-fest）。
+* [@sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) ⭐ 17,446 | 🐛 179 | 🌐 TypeScript | 📅 2026-10-13：基本 TypeScript 类型的集合（sindresorhus端口/ type-fest）。
 * [@neuledge/computed\_types](https://github.com/neuledge/computed-types) ⭐ 359 | 🐛 8 | 🌐 TypeScript | 📅 2026-06-15：类似 Joi 的 Typescript 和 Deno 验证器。
 * [@zhmushan/dev\_server](https://github.com/zhmushan/dev_server) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2021-08-29：让 TypeScript 文件直接在 script 标签中使用。
 * [@motss/deno\_mod](https://github.com/motss/deno_mod) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2020-04-18：一个 TypeScript 插件，它将允许 Deno 之外的 TypeScript 以类似于在 Deno 内部进行解析的方式来解析模块。⚠️ 已归档。
@@ -282,7 +282,7 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 * [@eliassjogreen/webview](https://github.com/eliassjogreen/deno_webview) ⭐ 1,592 | 🐛 43 | 🌐 TypeScript | 📅 2025-02-25：Webview 的 Deno 绑定，这是一个用于创建基于 Web 的桌面 GUI 的小型库。
 * [@garronej/evt](https://github.com/garronej/evt) ⭐ 462 | 🐛 8 | 🌐 TypeScript | 📅 2025-10-01：EventEmitter 的安全替代品。
 * [@hayd/deno-udd](https://github.com/hayd/deno-udd) ⭐ 324 | 🐛 36 | 🌐 TypeScript | 📅 2024-04-25：更新面依赖：将导入语句更新为最新发布的版本。
-* [@richytong/rubico](https://github.com/richytong/rubico) ⭐ 283 | 🐛 54 | 🌐 JavaScript | 📅 2026-10-11 - 🏞 异步函数组成；它刚刚能运行。
+* [@richytong/rubico](https://github.com/richytong/rubico) ⭐ 283 | 🐛 54 | 🌐 JavaScript | 📅 2026-10-13 - 🏞 异步函数组成；它刚刚能运行。
 * [@timonson/djwt](https://github.com/timonson/djwt) ⭐ 235 | 🐛 3 | 🌐 TypeScript | 📅 2024-08-09：根据 JWT 和 JWS 规范在 Deno 上创建 JSON Web 令牌（JWT）。
 * [@pikapkg/builders/.../pika-Deno-plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/) ⚠️ Archived。
 * [@rbrahul/deno\_cron](https://github.com/rbrahul/deno_cron) ⭐ 101 | 🐛 1 | 🌐 TypeScript | 📅 2020-06-03：cron job 调度程序，使您可以编写具有大量灵活性的可读 cron 语法
@@ -558,18 +558,18 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 
 > Deno 本身依赖的技术的清单库。
 
-* [@avelino/awesome-go](https://github.com/avelino/awesome-go) ⭐ 188,059 | 🐛 66 | 🌐 Go | 📅 2026-10-12。
-* [@sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,092 | 🐛 24 | 📅 2026-09-02。
-* [@rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,810 | 🐛 9 | 🌐 Rust | 📅 2026-10-12。
+* [@avelino/awesome-go](https://github.com/avelino/awesome-go) ⭐ 188,229 | 🐛 66 | 🌐 Go | 📅 2026-10-13。
+* [@sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,104 | 🐛 24 | 📅 2026-09-02。
+* [@rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,837 | 🐛 9 | 🌐 Rust | 📅 2026-10-13。
 * [@jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn) ⭐ 7,379 | 🐛 15 | 📅 2024-05-22。
 * [@dzharii/awesome-typeScript](https://github.com/dzharii/awesome-typescript) ⚠️ Archived。
-* [@semlinker/awesome-typeScript](https://github.com/semlinker/awesome-typescript) ⭐ 4,051 | 🐛 119 | 📅 2026-10-03。
+* [@semlinker/awesome-typeScript](https://github.com/semlinker/awesome-typescript) ⭐ 4,051 | 🐛 120 | 📅 2026-10-03。
 * ...逐步添加中，欢迎 Star & Fork & PR。
 
 ### 仓库更新日志
 
-* [x] 2020-05-14 同步最新的 [@denolib/awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,411 | 🐛 8 | 📅 2026-09-28 仓库内容。
-* [x] 2020-05-22 全网大量搜索 Deno 中英文资源并入库，发布 v1.0 版本并收录在[《Deno 钻研之术》](https://github.com/denolib/awesome-deno) ⭐ 4,411 | 🐛 8 | 📅 2026-09-28第二篇中。
+* [x] 2020-05-14 同步最新的 [@denolib/awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,411 | 🐛 6 | 📅 2026-10-13 仓库内容。
+* [x] 2020-05-22 全网大量搜索 Deno 中英文资源并入库，发布 v1.0 版本并收录在[《Deno 钻研之术》](https://github.com/denolib/awesome-deno) ⭐ 4,411 | 🐛 6 | 📅 2026-10-13第二篇中。
 * [x] 2020-04-14 跟进最新的（180+ Star） [@olivewind/awesome-deno-cn](https://github.com/olivewind/awesome-deno) ⚠️ Archived 仓库内容。
 * [x] 2020-05-17 跟进中文化后大改版的（200+ Star） [@olivewind/awesome-deno-cn](https://github.com/olivewind/awesome-deno-cn) ⚠️ Archived 仓库内容。
 * [x] 2020-04-14 初始化本项目，填充独特的中文版内容。
@@ -583,7 +583,7 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
   * [x] 跟随 Deno 主版本号提前发布 v1.8.0 版本。
   * [x] 将之前尚未分类的数十条进行分类
 * [ ] 2021-xx-xx
-  * [ ] 同步最新的 [@denolib/awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,411 | 🐛 8 | 📅 2026-09-28 内容
+  * [ ] 同步最新的 [@denolib/awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,411 | 🐛 6 | 📅 2026-10-13 内容
   * [ ] 引入 Pagic 来展示此资源清单
   * [ ] 全网大量搜索 Deno 中英文资料并入库
 
@@ -619,7 +619,7 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-本项目贡献者列表遵循 [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,111 | 🐛 86 | 🌐 MDX | 📅 2026-10-08 规范。欢迎你的参与，本仓库[贡献准则](./CONTRIBUTING.md)！
+本项目贡献者列表遵循 [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,111 | 🐛 86 | 🌐 MDX | 📅 2026-10-13 规范。欢迎你的参与，本仓库[贡献准则](./CONTRIBUTING.md)！
 
 ## 开源协议
 
@@ -627,4 +627,4 @@ Deno v1.0 于 2020 年 05 月 13 日正式发布 v1.0 版本，一个专注于�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
