@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "denolib",
                 "repo": "awesome-deno",
-                "stars": 4415,
+                "stars": 4416,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -157,11 +157,11 @@
             "id": 133442384,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-21T17:27:19Z",
+            "last_commit": "2026-10-22T09:24:28Z",
             "open_issues": 1637,
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108720,
+            "stars": 108726,
             "topics": [
               "deno",
               "javascript",
@@ -412,7 +412,7 @@
                     "open_issues": 8,
                     "owner": "egoist-labs",
                     "repo": "denopkg.com",
-                    "stars": 239,
+                    "stars": 238,
                     "topics": [
                       "deno",
                       "pkg"
@@ -472,7 +472,7 @@
                     "open_issues": 10,
                     "owner": "justjavac",
                     "repo": "dvm",
-                    "stars": 712,
+                    "stars": 713,
                     "topics": [
                       "deno",
                       "dvm",
@@ -2740,11 +2740,11 @@
                     "id": 175398594,
                     "language": "TypeScript",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-21T12:28:05Z",
-                    "open_issues": 64,
+                    "last_commit": "2026-10-22T08:27:09Z",
+                    "open_issues": 61,
                     "owner": "sindresorhus",
                     "repo": "type-fest",
-                    "stars": 17459,
+                    "stars": 17461,
                     "topics": [
                       "npm-package",
                       "types",
@@ -2767,8 +2767,8 @@
                     "id": 245673761,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-19T13:55:27Z",
-                    "open_issues": 11,
+                    "last_commit": "2026-10-22T04:34:18Z",
+                    "open_issues": 6,
                     "owner": "neuledge",
                     "repo": "computed-types",
                     "stars": 359,
@@ -3275,8 +3275,8 @@
                     "id": 219276883,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-13T16:45:37Z",
-                    "open_issues": 54,
+                    "last_commit": "2026-10-22T16:08:39Z",
+                    "open_issues": 55,
                     "owner": "a-synchronous",
                     "repo": "rubico",
                     "stars": 283,
@@ -4245,11 +4245,11 @@
                 "id": 21540759,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-19T14:07:44Z",
-                "open_issues": 85,
+                "last_commit": "2026-10-22T14:02:57Z",
+                "open_issues": 88,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 189608,
+                "stars": 189792,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4277,7 +4277,7 @@
                 "open_issues": 24,
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 67203,
+                "stars": 67219,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4302,10 +4302,10 @@
                 "language": "Rust",
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-21T10:29:55Z",
-                "open_issues": 10,
+                "open_issues": 9,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 60007,
+                "stars": 60032,
                 "topics": [
                   "awesome",
                   "rust"
@@ -4329,7 +4329,7 @@
                 "open_issues": 14,
                 "owner": "jobbole",
                 "repo": "awesome-go-cn",
-                "stars": 7376,
+                "stars": 7378,
                 "topics": [
                   "go",
                   "golang"
@@ -4371,7 +4371,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-03T01:26:40Z",
-                "open_issues": 125,
+                "open_issues": 126,
                 "owner": "semlinker",
                 "repo": "awesome-typescript",
                 "stars": 4050,
@@ -4407,7 +4407,7 @@
                 "open_issues": 7,
                 "owner": "denolib",
                 "repo": "awesome-deno",
-                "stars": 4415,
+                "stars": 4416,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4432,7 +4432,7 @@
                 "open_issues": 7,
                 "owner": "denolib",
                 "repo": "awesome-deno",
-                "stars": 4415,
+                "stars": 4416,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4504,7 +4504,7 @@
                     "open_issues": 7,
                     "owner": "denolib",
                     "repo": "awesome-deno",
-                    "stars": 4415,
+                    "stars": 4416,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -4525,7 +4525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:22:20.984Z",
+    "last_updated": "2026-10-22T20:18:53.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦖 长期维护！中文圈下与 Deno 相关的 Awesome 资源全图谱",
