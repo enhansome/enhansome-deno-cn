@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "denolib",
                 "repo": "awesome-deno",
-                "stars": 4418,
+                "stars": 4417,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -158,10 +158,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-29T08:03:10Z",
-            "open_issues": 1661,
+            "open_issues": 1671,
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108776,
+            "stars": 108781,
             "topics": [
               "deno",
               "javascript",
@@ -246,7 +246,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-25T17:23:44Z",
-            "open_issues": 321,
+            "open_issues": 322,
             "owner": "denoland",
             "repo": "std",
             "stars": 3563,
@@ -274,7 +274,7 @@
             "open_issues": 31,
             "owner": "cacjs",
             "repo": "cac",
-            "stars": 3143,
+            "stars": 3144,
             "topics": [
               "cli",
               "command-line",
@@ -472,7 +472,7 @@
                     "open_issues": 0,
                     "owner": "justjavac",
                     "repo": "dvm",
-                    "stars": 713,
+                    "stars": 714,
                     "topics": [
                       "deno",
                       "dvm",
@@ -871,7 +871,7 @@
                     "open_issues": 23,
                     "owner": "alosaur",
                     "repo": "alosaur",
-                    "stars": 816,
+                    "stars": 817,
                     "topics": [
                       "decorators",
                       "deno",
@@ -1541,7 +1541,7 @@
                     "open_issues": 105,
                     "owner": "eveningkid",
                     "repo": "denodb",
-                    "stars": 1914,
+                    "stars": 1915,
                     "topics": [
                       "database",
                       "deno",
@@ -1658,7 +1658,7 @@
                     "id": 163508735,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-30T13:29:07Z",
+                    "last_commit": "2026-10-31T10:53:21Z",
                     "open_issues": 39,
                     "owner": "denodrivers",
                     "repo": "redis",
@@ -1871,7 +1871,7 @@
                     "open_issues": 31,
                     "owner": "cacjs",
                     "repo": "cac",
-                    "stars": 3143,
+                    "stars": 3144,
                     "topics": [
                       "cli",
                       "command-line",
@@ -2740,11 +2740,11 @@
                     "id": 175398594,
                     "language": "TypeScript",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-25T05:05:11Z",
-                    "open_issues": 51,
+                    "last_commit": "2026-10-31T17:31:34Z",
+                    "open_issues": 44,
                     "owner": "sindresorhus",
                     "repo": "type-fest",
-                    "stars": 17484,
+                    "stars": 17483,
                     "topics": [
                       "npm-package",
                       "types",
@@ -4098,7 +4098,7 @@
                 "open_issues": 32,
                 "owner": "ryo-ma",
                 "repo": "github-profile-trophy",
-                "stars": 6671,
+                "stars": 6670,
                 "topics": [
                   "deno",
                   "github",
@@ -4246,10 +4246,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-30T14:13:08Z",
-                "open_issues": 95,
+                "open_issues": 96,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 191191,
+                "stars": 191352,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4277,7 +4277,7 @@
                 "open_issues": 24,
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 67310,
+                "stars": 67320,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4301,11 +4301,11 @@
                 "id": 21938243,
                 "language": "Rust",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-30T08:13:37Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-31T15:10:59Z",
+                "open_issues": 9,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 60212,
+                "stars": 60239,
                 "topics": [
                   "awesome",
                   "rust"
@@ -4329,7 +4329,7 @@
                 "open_issues": 14,
                 "owner": "jobbole",
                 "repo": "awesome-go-cn",
-                "stars": 7380,
+                "stars": 7379,
                 "topics": [
                   "go",
                   "golang"
@@ -4407,7 +4407,7 @@
                 "open_issues": 7,
                 "owner": "denolib",
                 "repo": "awesome-deno",
-                "stars": 4418,
+                "stars": 4417,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4432,7 +4432,7 @@
                 "open_issues": 7,
                 "owner": "denolib",
                 "repo": "awesome-deno",
-                "stars": 4418,
+                "stars": 4417,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4504,7 +4504,7 @@
                     "open_issues": 7,
                     "owner": "denolib",
                     "repo": "awesome-deno",
-                    "stars": 4418,
+                    "stars": 4417,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -4525,7 +4525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:03:57.393Z",
+    "last_updated": "2026-10-31T20:18:36.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦖 长期维护！中文圈下与 Deno 相关的 Awesome 资源全图谱",
