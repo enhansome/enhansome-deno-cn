@@ -18,7 +18,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-17T09:47:57Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "denolib",
                 "repo": "awesome-deno",
                 "stars": 4418,
@@ -46,7 +46,7 @@
                 "open_issues": 10,
                 "owner": "esmadrider",
                 "repo": "deno-tutorial",
-                "stars": 790,
+                "stars": 789,
                 "topics": [
                   "demos",
                   "deno",
@@ -124,7 +124,7 @@
                 "open_issues": 10,
                 "owner": "esmadrider",
                 "repo": "deno-tutorial",
-                "stars": 790,
+                "stars": 789,
                 "topics": [
                   "demos",
                   "deno",
@@ -158,10 +158,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-17T15:55:36Z",
-            "open_issues": 1755,
+            "open_issues": 1752,
             "owner": "denoland",
             "repo": "deno",
-            "stars": 109050,
+            "stars": 109076,
             "topics": [
               "deno",
               "javascript",
@@ -187,7 +187,7 @@
             "open_issues": 53,
             "owner": "oakserver",
             "repo": "oak",
-            "stars": 5405,
+            "stars": 5404,
             "topics": [
               "deno",
               "http-server",
@@ -215,7 +215,7 @@
             "open_issues": 94,
             "owner": "alephjs",
             "repo": "aleph.js",
-            "stars": 5170,
+            "stars": 5169,
             "topics": [
               "alephjs",
               "components",
@@ -249,7 +249,7 @@
             "open_issues": 342,
             "owner": "denoland",
             "repo": "std",
-            "stars": 3559,
+            "stars": 3558,
             "topics": [
               "deno",
               "javascript",
@@ -274,7 +274,7 @@
             "open_issues": 32,
             "owner": "cacjs",
             "repo": "cac",
-            "stars": 3151,
+            "stars": 3150,
             "topics": [
               "cli",
               "command-line",
@@ -364,7 +364,7 @@
             "open_issues": 9,
             "owner": "littledivy",
             "repo": "autopilot-deno",
-            "stars": 504,
+            "stars": 503,
             "topics": [
               "automation",
               "autopilot",
@@ -472,7 +472,7 @@
                     "open_issues": 0,
                     "owner": "justjavac",
                     "repo": "dvm",
-                    "stars": 714,
+                    "stars": 713,
                     "topics": [
                       "deno",
                       "dvm",
@@ -501,7 +501,7 @@
                     "open_issues": 20,
                     "owner": "jurassiscripts",
                     "repo": "velociraptor",
-                    "stars": 667,
+                    "stars": 666,
                     "topics": [
                       "deno",
                       "git-hooks",
@@ -782,7 +782,7 @@
                     "open_issues": 53,
                     "owner": "oakserver",
                     "repo": "oak",
-                    "stars": 5405,
+                    "stars": 5404,
                     "topics": [
                       "deno",
                       "http-server",
@@ -810,7 +810,7 @@
                     "open_issues": 7,
                     "owner": "drashland",
                     "repo": "drash",
-                    "stars": 1064,
+                    "stars": 1063,
                     "topics": [
                       "bun",
                       "cloudflare",
@@ -944,7 +944,7 @@
                     "open_issues": 5,
                     "owner": "sholladay",
                     "repo": "pogo",
-                    "stars": 479,
+                    "stars": 478,
                     "topics": [
                       "api",
                       "deno",
@@ -976,7 +976,7 @@
                     "open_issues": 8,
                     "owner": "syumai",
                     "repo": "dinatra",
-                    "stars": 415,
+                    "stars": 413,
                     "topics": [
                       "deno",
                       "typescript",
@@ -1142,7 +1142,7 @@
                     "open_issues": 94,
                     "owner": "alephjs",
                     "repo": "aleph.js",
-                    "stars": 5170,
+                    "stars": 5169,
                     "topics": [
                       "alephjs",
                       "components",
@@ -1349,7 +1349,7 @@
                     "open_issues": 52,
                     "owner": "unexpectedjs",
                     "repo": "unexpected",
-                    "stars": 367,
+                    "stars": 366,
                     "topics": [
                       "assertions",
                       "javascript",
@@ -1541,7 +1541,7 @@
                     "open_issues": 105,
                     "owner": "eveningkid",
                     "repo": "denodb",
-                    "stars": 1915,
+                    "stars": 1914,
                     "topics": [
                       "database",
                       "deno",
@@ -1601,7 +1601,7 @@
                     "open_issues": 1,
                     "owner": "lmxrd",
                     "repo": "deno-nessie",
-                    "stars": 519,
+                    "stars": 518,
                     "topics": [
                       "deno",
                       "deno-mysql",
@@ -1634,7 +1634,7 @@
                     "open_issues": 48,
                     "owner": "denodrivers",
                     "repo": "mongo",
-                    "stars": 512,
+                    "stars": 511,
                     "topics": [
                       "database",
                       "deno",
@@ -1871,7 +1871,7 @@
                     "open_issues": 32,
                     "owner": "cacjs",
                     "repo": "cac",
-                    "stars": 3151,
+                    "stars": 3150,
                     "topics": [
                       "cli",
                       "command-line",
@@ -2595,7 +2595,7 @@
                     "open_issues": 129,
                     "owner": "denoland",
                     "repo": "vscode_deno",
-                    "stars": 1549,
+                    "stars": 1548,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:28.148Z"
@@ -2740,11 +2740,11 @@
                     "id": 175398594,
                     "language": "TypeScript",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-11-18T17:16:45Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-11-19T07:45:43Z",
+                    "open_issues": 3,
                     "owner": "sindresorhus",
                     "repo": "type-fest",
-                    "stars": 17544,
+                    "stars": 17549,
                     "topics": [
                       "npm-package",
                       "types",
@@ -2771,7 +2771,7 @@
                     "open_issues": 2,
                     "owner": "neuledge",
                     "repo": "computed-types",
-                    "stars": 359,
+                    "stars": 358,
                     "topics": [
                       "async",
                       "javascript",
@@ -2857,7 +2857,7 @@
                     "open_issues": 27,
                     "owner": "denosaurs",
                     "repo": "denon",
-                    "stars": 1105,
+                    "stars": 1104,
                     "topics": [
                       "daemon",
                       "deno",
@@ -2979,7 +2979,7 @@
                     "open_issues": 41,
                     "owner": "Tencent",
                     "repo": "cloudbase-framework",
-                    "stars": 1996,
+                    "stars": 1995,
                     "topics": [
                       "cli",
                       "cloudbase",
@@ -3020,7 +3020,7 @@
                     "open_issues": 18,
                     "owner": "denoland",
                     "repo": "deno_docker",
-                    "stars": 1015,
+                    "stars": 1014,
                     "topics": [
                       "deno",
                       "docker",
@@ -3046,7 +3046,7 @@
                     "open_issues": 9,
                     "owner": "littledivy",
                     "repo": "autopilot-deno",
-                    "stars": 504,
+                    "stars": 503,
                     "topics": [
                       "automation",
                       "autopilot",
@@ -3195,7 +3195,7 @@
                     "open_issues": 43,
                     "owner": "webview",
                     "repo": "webview_deno",
-                    "stars": 1591,
+                    "stars": 1590,
                     "topics": [
                       "deno",
                       "deno-bindings",
@@ -3227,7 +3227,7 @@
                     "open_issues": 8,
                     "owner": "garronej",
                     "repo": "evt",
-                    "stars": 461,
+                    "stars": 460,
                     "topics": [
                       "async-await",
                       "browser",
@@ -4098,7 +4098,7 @@
                 "open_issues": 35,
                 "owner": "ryo-ma",
                 "repo": "github-profile-trophy",
-                "stars": 6686,
+                "stars": 6685,
                 "topics": [
                   "deno",
                   "github",
@@ -4245,11 +4245,11 @@
                 "id": 21540759,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-18T00:58:07Z",
+                "last_commit": "2026-11-19T14:03:06Z",
                 "open_issues": 118,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 194662,
+                "stars": 194838,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4277,7 +4277,7 @@
                 "open_issues": 25,
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 67552,
+                "stars": 67564,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4301,11 +4301,11 @@
                 "id": 21938243,
                 "language": "Rust",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-18T19:28:04Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-19T21:17:24Z",
+                "open_issues": 8,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 60639,
+                "stars": 60660,
                 "topics": [
                   "awesome",
                   "rust"
@@ -4353,7 +4353,7 @@
                 "open_issues": 3,
                 "owner": "dzharii",
                 "repo": "awesome-typescript",
-                "stars": 5114,
+                "stars": 5112,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:28.148Z"
@@ -4374,7 +4374,7 @@
                 "open_issues": 143,
                 "owner": "semlinker",
                 "repo": "awesome-typescript",
-                "stars": 4051,
+                "stars": 4050,
                 "topics": [
                   "awesome-list",
                   "react-typescripts",
@@ -4404,7 +4404,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-17T09:47:57Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "denolib",
                 "repo": "awesome-deno",
                 "stars": 4418,
@@ -4429,7 +4429,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-17T09:47:57Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "denolib",
                 "repo": "awesome-deno",
                 "stars": 4418,
@@ -4501,7 +4501,7 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-17T09:47:57Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "denolib",
                     "repo": "awesome-deno",
                     "stars": 4418,
@@ -4525,7 +4525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:09:08.539Z",
+    "last_updated": "2026-11-19T23:14:55.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦖 长期维护！中文圈下与 Deno 相关的 Awesome 资源全图谱",
