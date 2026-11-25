@@ -158,10 +158,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-17T15:55:36Z",
-            "open_issues": 1754,
+            "open_issues": 1752,
             "owner": "denoland",
             "repo": "deno",
-            "stars": 109007,
+            "stars": 108993,
             "topics": [
               "deno",
               "javascript",
@@ -274,7 +274,7 @@
             "open_issues": 32,
             "owner": "cacjs",
             "repo": "cac",
-            "stars": 3150,
+            "stars": 3148,
             "topics": [
               "cli",
               "command-line",
@@ -806,11 +806,11 @@
                     "id": 171999885,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-24T17:07:29Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-11-24T14:17:22Z",
+                    "open_issues": 1,
                     "owner": "drashland",
                     "repo": "drash",
-                    "stars": 1063,
+                    "stars": 1062,
                     "topics": [
                       "bun",
                       "cloudflare",
@@ -1871,7 +1871,7 @@
                     "open_issues": 32,
                     "owner": "cacjs",
                     "repo": "cac",
-                    "stars": 3150,
+                    "stars": 3148,
                     "topics": [
                       "cli",
                       "command-line",
@@ -2680,7 +2680,7 @@
                 "open_issues": 12,
                 "owner": "xcatliu",
                 "repo": "pagic",
-                "stars": 1652,
+                "stars": 1650,
                 "topics": [
                   "deno",
                   "markdown",
@@ -2744,7 +2744,7 @@
                     "open_issues": 3,
                     "owner": "sindresorhus",
                     "repo": "type-fest",
-                    "stars": 17553,
+                    "stars": 17554,
                     "topics": [
                       "npm-package",
                       "types",
@@ -4098,7 +4098,7 @@
                 "open_issues": 36,
                 "owner": "ryo-ma",
                 "repo": "github-profile-trophy",
-                "stars": 6686,
+                "stars": 6687,
                 "topics": [
                   "deno",
                   "github",
@@ -4245,11 +4245,11 @@
                 "id": 21540759,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-23T12:27:44Z",
-                "open_issues": 111,
+                "last_commit": "2026-11-24T21:47:10Z",
+                "open_issues": 108,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 195635,
+                "stars": 195814,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4277,7 +4277,7 @@
                 "open_issues": 24,
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 67622,
+                "stars": 67629,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4301,11 +4301,11 @@
                 "id": 21938243,
                 "language": "Rust",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-23T17:17:26Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-24T12:09:48Z",
+                "open_issues": 11,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 60765,
+                "stars": 60790,
                 "topics": [
                   "awesome",
                   "rust"
@@ -4353,7 +4353,7 @@
                 "open_issues": 3,
                 "owner": "dzharii",
                 "repo": "awesome-typescript",
-                "stars": 5111,
+                "stars": 5110,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:28.148Z"
@@ -4371,7 +4371,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-03T01:26:40Z",
-                "open_issues": 147,
+                "open_issues": 148,
                 "owner": "semlinker",
                 "repo": "awesome-typescript",
                 "stars": 4050,
@@ -4525,7 +4525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:03:31.971Z",
+    "last_updated": "2026-11-25T01:05:54.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦖 长期维护！中文圈下与 Deno 相关的 Awesome 资源全图谱",
